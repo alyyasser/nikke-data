@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10001,
+      "event_id": 10001,
+      "character_id": 301201,
+      "logo_resource_id": "EVENT_LOGO_DAILY_LOGIN_01"
+    },
+    {
+      "id": 10002,
+      "event_id": 10002,
+      "character_id": 110001,
+      "logo_resource_id": "EVENT_LOGO_DAILY_LOGIN_02"
+    }
+  ]
+}

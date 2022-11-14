@@ -1,0 +1,115 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 3000101
+    },
+    {
+      "id": 2,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 20
+    },
+    {
+      "id": 3,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 3000
+    },
+    {
+      "id": 4,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 1000
+    },
+    {
+      "id": 5,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 300
+    },
+    {
+      "id": 6,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 30
+    },
+    {
+      "id": 7,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 50
+    },
+    {
+      "id": 8,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 100
+    },
+    {
+      "id": 9,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 150
+    },
+    {
+      "id": 10,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 151
+    },
+    {
+      "id": 11,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 200
+    },
+    {
+      "id": 12,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 250
+    },
+    {
+      "id": 13,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 300
+    },
+    {
+      "id": 14,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 350
+    },
+    {
+      "id": 15,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 400
+    },
+    {
+      "id": 16,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 450
+    },
+    {
+      "id": 17,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 500
+    },
+    {
+      "id": 18,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 600
+    },
+    {
+      "id": 19,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 700
+    },
+    {
+      "id": 20,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 800
+    },
+    {
+      "id": 21,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 900
+    },
+    {
+      "id": 22,
+      "reward_mail_key": "POLL_REWARD",
+      "reward_id": 1000
+    }
+  ]
+}

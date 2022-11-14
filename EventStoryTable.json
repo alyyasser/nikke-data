@@ -1,0 +1,39 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10001,
+      "event_id": 40001,
+      "name": "STORY_DUNGEON_TITLE",
+      "description": "STORY_DUNGEON_DESCRIPTION",
+      "prologue_scenario": "event_nocallerid_prologue",
+      "auto_charge_id": 10001,
+      "event_item_type": "Item",
+      "event_item_id": 7060001,
+      "item_exchange_id": 10001,
+      "dungeon_id": 1,
+      "album_category_group": 1000,
+      "mission_group": 1,
+      "contents_shop_id": 9000101,
+      "dice_id": 0,
+      "ui_prefab": "nocallerid"
+    },
+    {
+      "id": 10002,
+      "event_id": 40002,
+      "name": "STORY_DUNGEON_TITLE2",
+      "description": "STORY_DUNGEON_DESCRIPTION2",
+      "prologue_scenario": "event_hightechtoy_prologue",
+      "auto_charge_id": 10002,
+      "event_item_type": "Item",
+      "event_item_id": 7060002,
+      "item_exchange_id": 10002,
+      "dungeon_id": 2,
+      "album_category_group": 1001,
+      "mission_group": 2,
+      "contents_shop_id": 9000201,
+      "dice_id": 1,
+      "ui_prefab": "hightechtoy"
+    }
+  ]
+}

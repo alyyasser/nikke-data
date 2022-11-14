@@ -1,0 +1,68 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_balloon_01_a_1",
+      "group_id": "d_balloon_01_a",
+      "balloon_type": "Shouting",
+      "speaker": "privaty",
+      "scenario_localkey": "m_subquest_1062_s_28"
+    },
+    {
+      "id": "d_balloon_01_a_2",
+      "group_id": "d_balloon_01_a",
+      "balloon_type": "Shouting",
+      "speaker": "privaty",
+      "scenario_localkey": "m_subquest_1062_e_1"
+    },
+    {
+      "id": "d_balloon_01_a_3",
+      "group_id": "d_balloon_01_a",
+      "balloon_type": "Shouting",
+      "speaker": "privaty",
+      "scenario_localkey": "d_subquest_1062_24"
+    },
+    {
+      "id": "d_balloon_01_s_1",
+      "group_id": "d_balloon_01_s",
+      "balloon_type": "Normal",
+      "speaker": "privaty",
+      "scenario_localkey": "d_contents_arena_01_1"
+    },
+    {
+      "id": "d_balloon_01_s_2",
+      "group_id": "d_balloon_01_s",
+      "balloon_type": "Thinking",
+      "speaker": "privaty",
+      "scenario_localkey": "d_contents_arena_01_2"
+    },
+    {
+      "id": "d_balloon_01_s_3",
+      "group_id": "d_balloon_01_s",
+      "balloon_type": "Shouting",
+      "speaker": "privaty",
+      "scenario_localkey": "d_contents_arena_01_8"
+    },
+    {
+      "id": "d_balloon_01_s_4",
+      "group_id": "d_balloon_01_s",
+      "balloon_type": "Frame",
+      "speaker": "privaty",
+      "scenario_localkey": "d_contents_arena_01_17"
+    },
+    {
+      "id": "d_balloon_01_e_1",
+      "group_id": "d_balloon_01_e",
+      "balloon_type": "Shouting",
+      "speaker": "privaty",
+      "scenario_localkey": "m_test_quest4_s_02"
+    },
+    {
+      "id": "d_balloon_01_m_1",
+      "group_id": "d_balloon_01_m",
+      "balloon_type": "Normal",
+      "speaker": "privaty",
+      "scenario_localkey": "m_test_quest3_e_14"
+    }
+  ]
+}

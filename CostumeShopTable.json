@@ -1,0 +1,44 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 3000101,
+      "shop_group_id": 100001,
+      "costume_theme_group_id": 3000,
+      "costume_id": 30002,
+      "buy_limit_type": "Account",
+      "is_limit": true,
+      "buy_limit_count": 1,
+      "price_type": "Currency",
+      "price_id": 98,
+      "price_value": 1600,
+      "is_active": true
+    },
+    {
+      "id": 3000201,
+      "shop_group_id": 100001,
+      "costume_theme_group_id": 3000,
+      "costume_id": 30003,
+      "buy_limit_type": "Account",
+      "is_limit": true,
+      "buy_limit_count": 1,
+      "price_type": "Currency",
+      "price_id": 98,
+      "price_value": 1600,
+      "is_active": true
+    },
+    {
+      "id": 3000301,
+      "shop_group_id": 100001,
+      "costume_theme_group_id": 3000,
+      "costume_id": 30007,
+      "buy_limit_type": "Account",
+      "is_limit": true,
+      "buy_limit_count": 1,
+      "price_type": "Currency",
+      "price_id": 98,
+      "price_value": 1600,
+      "is_active": true
+    }
+  ]
+}

@@ -1,0 +1,3064 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 110201,
+      "prob": 9
+    },
+    {
+      "id": 2,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 314001,
+      "prob": 9
+    },
+    {
+      "id": 3,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 321001,
+      "prob": 9
+    },
+    {
+      "id": 4,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 319101,
+      "prob": 9
+    },
+    {
+      "id": 5,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 209001,
+      "prob": 9
+    },
+    {
+      "id": 6,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 116001,
+      "prob": 9
+    },
+    {
+      "id": 7,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 217001,
+      "prob": 9
+    },
+    {
+      "id": 8,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 314201,
+      "prob": 9
+    },
+    {
+      "id": 9,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 115001,
+      "prob": 9
+    },
+    {
+      "id": 10,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 202201,
+      "prob": 9
+    },
+    {
+      "id": 11,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 203001,
+      "prob": 9
+    },
+    {
+      "id": 12,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 203201,
+      "prob": 9
+    },
+    {
+      "id": 13,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 207001,
+      "prob": 9
+    },
+    {
+      "id": 14,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 207101,
+      "prob": 9
+    },
+    {
+      "id": 15,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 207201,
+      "prob": 9
+    },
+    {
+      "id": 16,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 108001,
+      "prob": 9
+    },
+    {
+      "id": 17,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 209201,
+      "prob": 9
+    },
+    {
+      "id": 18,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 110101,
+      "prob": 9
+    },
+    {
+      "id": 19,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 111001,
+      "prob": 9
+    },
+    {
+      "id": 20,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 313001,
+      "prob": 9
+    },
+    {
+      "id": 21,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 117201,
+      "prob": 9
+    },
+    {
+      "id": 22,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 218001,
+      "prob": 9
+    },
+    {
+      "id": 23,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 319001,
+      "prob": 9
+    },
+    {
+      "id": 24,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 320101,
+      "prob": 9
+    },
+    {
+      "id": 25,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 324101,
+      "prob": 9
+    },
+    {
+      "id": 26,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 343201,
+      "prob": 9
+    },
+    {
+      "id": 27,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 343101,
+      "prob": 9
+    },
+    {
+      "id": 28,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 343001,
+      "prob": 9
+    },
+    {
+      "id": 29,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 324201,
+      "prob": 9
+    },
+    {
+      "id": 30,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 218101,
+      "prob": 9
+    },
+    {
+      "id": 31,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 108201,
+      "prob": 9
+    },
+    {
+      "id": 32,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 321201,
+      "prob": 9
+    },
+    {
+      "id": 33,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 320201,
+      "prob": 9
+    },
+    {
+      "id": 34,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 320001,
+      "prob": 9
+    },
+    {
+      "id": 35,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 317101,
+      "prob": 9
+    },
+    {
+      "id": 36,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 314101,
+      "prob": 9
+    },
+    {
+      "id": 37,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 113101,
+      "prob": 9
+    },
+    {
+      "id": 38,
+      "group_id": 10005,
+      "gacha_type": "Character",
+      "gacha_id": 209101,
+      "prob": 9
+    },
+    {
+      "id": 39,
+      "group_id": 10004,
+      "gacha_type": "Character",
+      "gacha_id": 423001,
+      "prob": 8
+    },
+    {
+      "id": 40,
+      "group_id": 10004,
+      "gacha_type": "Character",
+      "gacha_id": 422001,
+      "prob": 8
+    },
+    {
+      "id": 41,
+      "group_id": 10004,
+      "gacha_type": "Character",
+      "gacha_id": 423201,
+      "prob": 8
+    },
+    {
+      "id": 42,
+      "group_id": 10004,
+      "gacha_type": "Character",
+      "gacha_id": 422201,
+      "prob": 8
+    },
+    {
+      "id": 43,
+      "group_id": 10004,
+      "gacha_type": "Character",
+      "gacha_id": 423101,
+      "prob": 8
+    },
+    {
+      "id": 44,
+      "group_id": 10004,
+      "gacha_type": "Character",
+      "gacha_id": 422101,
+      "prob": 8
+    },
+    {
+      "id": 45,
+      "group_id": 10003,
+      "gacha_type": "Character",
+      "gacha_id": 201001,
+      "prob": 477
+    },
+    {
+      "id": 46,
+      "group_id": 10003,
+      "gacha_type": "Character",
+      "gacha_id": 201101,
+      "prob": 477
+    },
+    {
+      "id": 47,
+      "group_id": 10003,
+      "gacha_type": "Character",
+      "gacha_id": 202001,
+      "prob": 477
+    },
+    {
+      "id": 48,
+      "group_id": 10003,
+      "gacha_type": "Character",
+      "gacha_id": 301201,
+      "prob": 477
+    },
+    {
+      "id": 49,
+      "group_id": 10003,
+      "gacha_type": "Character",
+      "gacha_id": 116101,
+      "prob": 477
+    },
+    {
+      "id": 50,
+      "group_id": 10003,
+      "gacha_type": "Character",
+      "gacha_id": 112001,
+      "prob": 477
+    },
+    {
+      "id": 51,
+      "group_id": 10003,
+      "gacha_type": "Character",
+      "gacha_id": 129101,
+      "prob": 477
+    },
+    {
+      "id": 52,
+      "group_id": 10003,
+      "gacha_type": "Character",
+      "gacha_id": 306001,
+      "prob": 477
+    },
+    {
+      "id": 53,
+      "group_id": 10003,
+      "gacha_type": "Character",
+      "gacha_id": 306101,
+      "prob": 477
+    },
+    {
+      "id": 54,
+      "group_id": 10001,
+      "gacha_type": "Character",
+      "gacha_id": 230001,
+      "prob": 588
+    },
+    {
+      "id": 55,
+      "group_id": 10001,
+      "gacha_type": "Character",
+      "gacha_id": 230101,
+      "prob": 588
+    },
+    {
+      "id": 56,
+      "group_id": 10001,
+      "gacha_type": "Character",
+      "gacha_id": 130201,
+      "prob": 588
+    },
+    {
+      "id": 57,
+      "group_id": 10001,
+      "gacha_type": "Character",
+      "gacha_id": 130301,
+      "prob": 588
+    },
+    {
+      "id": 58,
+      "group_id": 10001,
+      "gacha_type": "Character",
+      "gacha_id": 330401,
+      "prob": 588
+    },
+    {
+      "id": 59,
+      "group_id": 10001,
+      "gacha_type": "Character",
+      "gacha_id": 330501,
+      "prob": 588
+    },
+    {
+      "id": 60,
+      "group_id": 10001,
+      "gacha_type": "Character",
+      "gacha_id": 330801,
+      "prob": 588
+    },
+    {
+      "id": 61,
+      "group_id": 10001,
+      "gacha_type": "Character",
+      "gacha_id": 130701,
+      "prob": 588
+    },
+    {
+      "id": 62,
+      "group_id": 10001,
+      "gacha_type": "Character",
+      "gacha_id": 230601,
+      "prob": 588
+    },
+    {
+      "id": 63,
+      "group_id": 19995,
+      "gacha_type": "Index",
+      "gacha_id": 0,
+      "prob": 233
+    },
+    {
+      "id": 64,
+      "group_id": 100001,
+      "gacha_type": "Character",
+      "gacha_id": 235201,
+      "prob": 200
+    },
+    {
+      "id": 65,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 110201,
+      "prob": 3
+    },
+    {
+      "id": 66,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 314001,
+      "prob": 3
+    },
+    {
+      "id": 67,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 321001,
+      "prob": 3
+    },
+    {
+      "id": 68,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 319101,
+      "prob": 3
+    },
+    {
+      "id": 69,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 209001,
+      "prob": 3
+    },
+    {
+      "id": 70,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 116001,
+      "prob": 3
+    },
+    {
+      "id": 71,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 217001,
+      "prob": 3
+    },
+    {
+      "id": 72,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 314201,
+      "prob": 3
+    },
+    {
+      "id": 73,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 115001,
+      "prob": 3
+    },
+    {
+      "id": 74,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 202201,
+      "prob": 3
+    },
+    {
+      "id": 75,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 203001,
+      "prob": 3
+    },
+    {
+      "id": 76,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 203201,
+      "prob": 3
+    },
+    {
+      "id": 77,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 207001,
+      "prob": 3
+    },
+    {
+      "id": 78,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 207101,
+      "prob": 3
+    },
+    {
+      "id": 79,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 207201,
+      "prob": 3
+    },
+    {
+      "id": 80,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 108001,
+      "prob": 3
+    },
+    {
+      "id": 81,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 209201,
+      "prob": 3
+    },
+    {
+      "id": 82,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 110101,
+      "prob": 3
+    },
+    {
+      "id": 83,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 111001,
+      "prob": 3
+    },
+    {
+      "id": 84,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 313001,
+      "prob": 3
+    },
+    {
+      "id": 85,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 117201,
+      "prob": 3
+    },
+    {
+      "id": 86,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 218001,
+      "prob": 3
+    },
+    {
+      "id": 87,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 319001,
+      "prob": 3
+    },
+    {
+      "id": 88,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 320101,
+      "prob": 3
+    },
+    {
+      "id": 89,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 324101,
+      "prob": 3
+    },
+    {
+      "id": 90,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 343201,
+      "prob": 3
+    },
+    {
+      "id": 91,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 343101,
+      "prob": 3
+    },
+    {
+      "id": 92,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 343001,
+      "prob": 3
+    },
+    {
+      "id": 93,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 324201,
+      "prob": 3
+    },
+    {
+      "id": 94,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 218101,
+      "prob": 3
+    },
+    {
+      "id": 95,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 108201,
+      "prob": 3
+    },
+    {
+      "id": 96,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 321201,
+      "prob": 3
+    },
+    {
+      "id": 97,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 320201,
+      "prob": 3
+    },
+    {
+      "id": 98,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 320001,
+      "prob": 3
+    },
+    {
+      "id": 99,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 317101,
+      "prob": 3
+    },
+    {
+      "id": 100,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 314101,
+      "prob": 3
+    },
+    {
+      "id": 101,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 113101,
+      "prob": 3
+    },
+    {
+      "id": 102,
+      "group_id": 100002,
+      "gacha_type": "Character",
+      "gacha_id": 209101,
+      "prob": 3
+    },
+    {
+      "id": 103,
+      "group_id": 100003,
+      "gacha_type": "Character",
+      "gacha_id": 423001,
+      "prob": 8
+    },
+    {
+      "id": 104,
+      "group_id": 100003,
+      "gacha_type": "Character",
+      "gacha_id": 422001,
+      "prob": 8
+    },
+    {
+      "id": 105,
+      "group_id": 100003,
+      "gacha_type": "Character",
+      "gacha_id": 423201,
+      "prob": 8
+    },
+    {
+      "id": 106,
+      "group_id": 100003,
+      "gacha_type": "Character",
+      "gacha_id": 422201,
+      "prob": 8
+    },
+    {
+      "id": 107,
+      "group_id": 100003,
+      "gacha_type": "Character",
+      "gacha_id": 423101,
+      "prob": 8
+    },
+    {
+      "id": 108,
+      "group_id": 100003,
+      "gacha_type": "Character",
+      "gacha_id": 422101,
+      "prob": 8
+    },
+    {
+      "id": 109,
+      "group_id": 100004,
+      "gacha_type": "Character",
+      "gacha_id": 112001,
+      "prob": 477
+    },
+    {
+      "id": 110,
+      "group_id": 100004,
+      "gacha_type": "Character",
+      "gacha_id": 116101,
+      "prob": 477
+    },
+    {
+      "id": 111,
+      "group_id": 100004,
+      "gacha_type": "Character",
+      "gacha_id": 129101,
+      "prob": 477
+    },
+    {
+      "id": 112,
+      "group_id": 100004,
+      "gacha_type": "Character",
+      "gacha_id": 201001,
+      "prob": 477
+    },
+    {
+      "id": 113,
+      "group_id": 100004,
+      "gacha_type": "Character",
+      "gacha_id": 201101,
+      "prob": 477
+    },
+    {
+      "id": 114,
+      "group_id": 100004,
+      "gacha_type": "Character",
+      "gacha_id": 202001,
+      "prob": 477
+    },
+    {
+      "id": 115,
+      "group_id": 100004,
+      "gacha_type": "Character",
+      "gacha_id": 301201,
+      "prob": 477
+    },
+    {
+      "id": 116,
+      "group_id": 100004,
+      "gacha_type": "Character",
+      "gacha_id": 306001,
+      "prob": 477
+    },
+    {
+      "id": 117,
+      "group_id": 100004,
+      "gacha_type": "Character",
+      "gacha_id": 306101,
+      "prob": 477
+    },
+    {
+      "id": 118,
+      "group_id": 100005,
+      "gacha_type": "Character",
+      "gacha_id": 130201,
+      "prob": 588
+    },
+    {
+      "id": 119,
+      "group_id": 100005,
+      "gacha_type": "Character",
+      "gacha_id": 130301,
+      "prob": 588
+    },
+    {
+      "id": 120,
+      "group_id": 100005,
+      "gacha_type": "Character",
+      "gacha_id": 130701,
+      "prob": 588
+    },
+    {
+      "id": 121,
+      "group_id": 100005,
+      "gacha_type": "Character",
+      "gacha_id": 230001,
+      "prob": 588
+    },
+    {
+      "id": 122,
+      "group_id": 100005,
+      "gacha_type": "Character",
+      "gacha_id": 230101,
+      "prob": 588
+    },
+    {
+      "id": 123,
+      "group_id": 100005,
+      "gacha_type": "Character",
+      "gacha_id": 230601,
+      "prob": 588
+    },
+    {
+      "id": 124,
+      "group_id": 100005,
+      "gacha_type": "Character",
+      "gacha_id": 330401,
+      "prob": 588
+    },
+    {
+      "id": 125,
+      "group_id": 100005,
+      "gacha_type": "Character",
+      "gacha_id": 330501,
+      "prob": 588
+    },
+    {
+      "id": 126,
+      "group_id": 100005,
+      "gacha_type": "Character",
+      "gacha_id": 330801,
+      "prob": 588
+    },
+    {
+      "id": 127,
+      "group_id": 110001,
+      "gacha_type": "Character",
+      "gacha_id": 110001,
+      "prob": 200
+    },
+    {
+      "id": 128,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 110201,
+      "prob": 3
+    },
+    {
+      "id": 129,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 314001,
+      "prob": 3
+    },
+    {
+      "id": 130,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 321001,
+      "prob": 3
+    },
+    {
+      "id": 131,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 319101,
+      "prob": 3
+    },
+    {
+      "id": 132,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 209001,
+      "prob": 3
+    },
+    {
+      "id": 133,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 116001,
+      "prob": 3
+    },
+    {
+      "id": 134,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 217001,
+      "prob": 3
+    },
+    {
+      "id": 135,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 314201,
+      "prob": 3
+    },
+    {
+      "id": 136,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 115001,
+      "prob": 3
+    },
+    {
+      "id": 137,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 202201,
+      "prob": 3
+    },
+    {
+      "id": 138,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 203001,
+      "prob": 3
+    },
+    {
+      "id": 139,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 203201,
+      "prob": 3
+    },
+    {
+      "id": 140,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 207001,
+      "prob": 3
+    },
+    {
+      "id": 141,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 207101,
+      "prob": 3
+    },
+    {
+      "id": 142,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 207201,
+      "prob": 3
+    },
+    {
+      "id": 143,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 108001,
+      "prob": 3
+    },
+    {
+      "id": 144,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 209201,
+      "prob": 3
+    },
+    {
+      "id": 145,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 110101,
+      "prob": 3
+    },
+    {
+      "id": 146,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 111001,
+      "prob": 3
+    },
+    {
+      "id": 147,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 313001,
+      "prob": 3
+    },
+    {
+      "id": 148,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 117201,
+      "prob": 3
+    },
+    {
+      "id": 149,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 218001,
+      "prob": 3
+    },
+    {
+      "id": 150,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 319001,
+      "prob": 3
+    },
+    {
+      "id": 151,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 320101,
+      "prob": 3
+    },
+    {
+      "id": 152,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 324101,
+      "prob": 3
+    },
+    {
+      "id": 153,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 343201,
+      "prob": 3
+    },
+    {
+      "id": 154,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 343101,
+      "prob": 3
+    },
+    {
+      "id": 155,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 343001,
+      "prob": 3
+    },
+    {
+      "id": 156,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 324201,
+      "prob": 3
+    },
+    {
+      "id": 157,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 218101,
+      "prob": 3
+    },
+    {
+      "id": 158,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 108201,
+      "prob": 3
+    },
+    {
+      "id": 159,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 321201,
+      "prob": 3
+    },
+    {
+      "id": 160,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 320201,
+      "prob": 3
+    },
+    {
+      "id": 161,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 320001,
+      "prob": 3
+    },
+    {
+      "id": 162,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 317101,
+      "prob": 3
+    },
+    {
+      "id": 163,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 314101,
+      "prob": 3
+    },
+    {
+      "id": 164,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 113101,
+      "prob": 3
+    },
+    {
+      "id": 165,
+      "group_id": 110002,
+      "gacha_type": "Character",
+      "gacha_id": 209101,
+      "prob": 3
+    },
+    {
+      "id": 166,
+      "group_id": 110003,
+      "gacha_type": "Character",
+      "gacha_id": 423001,
+      "prob": 8
+    },
+    {
+      "id": 167,
+      "group_id": 110003,
+      "gacha_type": "Character",
+      "gacha_id": 422001,
+      "prob": 8
+    },
+    {
+      "id": 168,
+      "group_id": 110003,
+      "gacha_type": "Character",
+      "gacha_id": 423201,
+      "prob": 8
+    },
+    {
+      "id": 169,
+      "group_id": 110003,
+      "gacha_type": "Character",
+      "gacha_id": 422201,
+      "prob": 8
+    },
+    {
+      "id": 170,
+      "group_id": 110003,
+      "gacha_type": "Character",
+      "gacha_id": 423101,
+      "prob": 8
+    },
+    {
+      "id": 171,
+      "group_id": 110003,
+      "gacha_type": "Character",
+      "gacha_id": 422101,
+      "prob": 8
+    },
+    {
+      "id": 172,
+      "group_id": 110004,
+      "gacha_type": "Character",
+      "gacha_id": 112001,
+      "prob": 477
+    },
+    {
+      "id": 173,
+      "group_id": 110004,
+      "gacha_type": "Character",
+      "gacha_id": 116101,
+      "prob": 477
+    },
+    {
+      "id": 174,
+      "group_id": 110004,
+      "gacha_type": "Character",
+      "gacha_id": 129101,
+      "prob": 477
+    },
+    {
+      "id": 175,
+      "group_id": 110004,
+      "gacha_type": "Character",
+      "gacha_id": 201001,
+      "prob": 477
+    },
+    {
+      "id": 176,
+      "group_id": 110004,
+      "gacha_type": "Character",
+      "gacha_id": 201101,
+      "prob": 477
+    },
+    {
+      "id": 177,
+      "group_id": 110004,
+      "gacha_type": "Character",
+      "gacha_id": 202001,
+      "prob": 477
+    },
+    {
+      "id": 178,
+      "group_id": 110004,
+      "gacha_type": "Character",
+      "gacha_id": 301201,
+      "prob": 477
+    },
+    {
+      "id": 179,
+      "group_id": 110004,
+      "gacha_type": "Character",
+      "gacha_id": 306001,
+      "prob": 477
+    },
+    {
+      "id": 180,
+      "group_id": 110004,
+      "gacha_type": "Character",
+      "gacha_id": 306101,
+      "prob": 477
+    },
+    {
+      "id": 181,
+      "group_id": 110005,
+      "gacha_type": "Character",
+      "gacha_id": 130201,
+      "prob": 588
+    },
+    {
+      "id": 182,
+      "group_id": 110005,
+      "gacha_type": "Character",
+      "gacha_id": 130301,
+      "prob": 588
+    },
+    {
+      "id": 183,
+      "group_id": 110005,
+      "gacha_type": "Character",
+      "gacha_id": 130701,
+      "prob": 588
+    },
+    {
+      "id": 184,
+      "group_id": 110005,
+      "gacha_type": "Character",
+      "gacha_id": 230001,
+      "prob": 588
+    },
+    {
+      "id": 185,
+      "group_id": 110005,
+      "gacha_type": "Character",
+      "gacha_id": 230101,
+      "prob": 588
+    },
+    {
+      "id": 186,
+      "group_id": 110005,
+      "gacha_type": "Character",
+      "gacha_id": 230601,
+      "prob": 588
+    },
+    {
+      "id": 187,
+      "group_id": 110005,
+      "gacha_type": "Character",
+      "gacha_id": 330401,
+      "prob": 588
+    },
+    {
+      "id": 188,
+      "group_id": 110005,
+      "gacha_type": "Character",
+      "gacha_id": 330501,
+      "prob": 588
+    },
+    {
+      "id": 189,
+      "group_id": 110005,
+      "gacha_type": "Character",
+      "gacha_id": 330801,
+      "prob": 588
+    },
+    {
+      "id": 190,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 110201,
+      "prob": 10
+    },
+    {
+      "id": 191,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 314001,
+      "prob": 10
+    },
+    {
+      "id": 192,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 321001,
+      "prob": 10
+    },
+    {
+      "id": 193,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 319101,
+      "prob": 10
+    },
+    {
+      "id": 194,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 209001,
+      "prob": 10
+    },
+    {
+      "id": 195,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 116001,
+      "prob": 10
+    },
+    {
+      "id": 196,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 217001,
+      "prob": 10
+    },
+    {
+      "id": 197,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 314201,
+      "prob": 10
+    },
+    {
+      "id": 198,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 115001,
+      "prob": 10
+    },
+    {
+      "id": 199,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 202201,
+      "prob": 10
+    },
+    {
+      "id": 200,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 203001,
+      "prob": 10
+    },
+    {
+      "id": 201,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 203201,
+      "prob": 10
+    },
+    {
+      "id": 202,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 207001,
+      "prob": 10
+    },
+    {
+      "id": 203,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 207101,
+      "prob": 10
+    },
+    {
+      "id": 204,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 207201,
+      "prob": 10
+    },
+    {
+      "id": 205,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 108001,
+      "prob": 10
+    },
+    {
+      "id": 206,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 209201,
+      "prob": 10
+    },
+    {
+      "id": 207,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 110101,
+      "prob": 10
+    },
+    {
+      "id": 208,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 111001,
+      "prob": 10
+    },
+    {
+      "id": 209,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 313001,
+      "prob": 10
+    },
+    {
+      "id": 210,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 117201,
+      "prob": 10
+    },
+    {
+      "id": 211,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 218001,
+      "prob": 10
+    },
+    {
+      "id": 212,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 319001,
+      "prob": 10
+    },
+    {
+      "id": 213,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 320101,
+      "prob": 10
+    },
+    {
+      "id": 214,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 324101,
+      "prob": 10
+    },
+    {
+      "id": 215,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 343201,
+      "prob": 10
+    },
+    {
+      "id": 216,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 343101,
+      "prob": 10
+    },
+    {
+      "id": 217,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 343001,
+      "prob": 10
+    },
+    {
+      "id": 218,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 324201,
+      "prob": 10
+    },
+    {
+      "id": 219,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 218101,
+      "prob": 10
+    },
+    {
+      "id": 220,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 108201,
+      "prob": 10
+    },
+    {
+      "id": 221,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 321201,
+      "prob": 10
+    },
+    {
+      "id": 222,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 320201,
+      "prob": 10
+    },
+    {
+      "id": 223,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 320001,
+      "prob": 10
+    },
+    {
+      "id": 224,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 317101,
+      "prob": 10
+    },
+    {
+      "id": 225,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 314101,
+      "prob": 10
+    },
+    {
+      "id": 226,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 113101,
+      "prob": 10
+    },
+    {
+      "id": 227,
+      "group_id": 300001,
+      "gacha_type": "Character",
+      "gacha_id": 209101,
+      "prob": 10
+    },
+    {
+      "id": 228,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 209001,
+      "prob": 416
+    },
+    {
+      "id": 229,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 217001,
+      "prob": 416
+    },
+    {
+      "id": 230,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 202201,
+      "prob": 416
+    },
+    {
+      "id": 231,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 203001,
+      "prob": 416
+    },
+    {
+      "id": 232,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 203201,
+      "prob": 416
+    },
+    {
+      "id": 233,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 207001,
+      "prob": 416
+    },
+    {
+      "id": 234,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 207101,
+      "prob": 416
+    },
+    {
+      "id": 235,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 207201,
+      "prob": 416
+    },
+    {
+      "id": 236,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 209201,
+      "prob": 416
+    },
+    {
+      "id": 237,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 218001,
+      "prob": 416
+    },
+    {
+      "id": 238,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 218101,
+      "prob": 416
+    },
+    {
+      "id": 239,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 209101,
+      "prob": 416
+    },
+    {
+      "id": 240,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 201001,
+      "prob": 333
+    },
+    {
+      "id": 241,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 201101,
+      "prob": 333
+    },
+    {
+      "id": 242,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 202001,
+      "prob": 333
+    },
+    {
+      "id": 243,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 112001,
+      "prob": 333
+    },
+    {
+      "id": 244,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 116101,
+      "prob": 333
+    },
+    {
+      "id": 245,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 129101,
+      "prob": 333
+    },
+    {
+      "id": 246,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 301201,
+      "prob": 333
+    },
+    {
+      "id": 247,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 306001,
+      "prob": 333
+    },
+    {
+      "id": 248,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 306101,
+      "prob": 333
+    },
+    {
+      "id": 249,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 230001,
+      "prob": 222
+    },
+    {
+      "id": 250,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 230101,
+      "prob": 222
+    },
+    {
+      "id": 251,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 230601,
+      "prob": 222
+    },
+    {
+      "id": 252,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 130201,
+      "prob": 222
+    },
+    {
+      "id": 253,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 130301,
+      "prob": 222
+    },
+    {
+      "id": 254,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 130701,
+      "prob": 222
+    },
+    {
+      "id": 255,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 330401,
+      "prob": 222
+    },
+    {
+      "id": 256,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 330501,
+      "prob": 222
+    },
+    {
+      "id": 257,
+      "group_id": 140001,
+      "gacha_type": "Character",
+      "gacha_id": 330801,
+      "prob": 222
+    },
+    {
+      "id": 258,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 110201,
+      "prob": 555
+    },
+    {
+      "id": 259,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 116001,
+      "prob": 555
+    },
+    {
+      "id": 260,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 115001,
+      "prob": 555
+    },
+    {
+      "id": 261,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 108001,
+      "prob": 555
+    },
+    {
+      "id": 262,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 110101,
+      "prob": 555
+    },
+    {
+      "id": 263,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 111001,
+      "prob": 555
+    },
+    {
+      "id": 264,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 117201,
+      "prob": 555
+    },
+    {
+      "id": 265,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 108201,
+      "prob": 555
+    },
+    {
+      "id": 266,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 113101,
+      "prob": 555
+    },
+    {
+      "id": 267,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 201001,
+      "prob": 333
+    },
+    {
+      "id": 268,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 201101,
+      "prob": 333
+    },
+    {
+      "id": 269,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 202001,
+      "prob": 333
+    },
+    {
+      "id": 270,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 112001,
+      "prob": 333
+    },
+    {
+      "id": 271,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 116101,
+      "prob": 333
+    },
+    {
+      "id": 272,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 129101,
+      "prob": 333
+    },
+    {
+      "id": 273,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 301201,
+      "prob": 333
+    },
+    {
+      "id": 274,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 306001,
+      "prob": 333
+    },
+    {
+      "id": 275,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 306101,
+      "prob": 333
+    },
+    {
+      "id": 276,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 230001,
+      "prob": 222
+    },
+    {
+      "id": 277,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 230101,
+      "prob": 222
+    },
+    {
+      "id": 278,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 230601,
+      "prob": 222
+    },
+    {
+      "id": 279,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 130201,
+      "prob": 222
+    },
+    {
+      "id": 280,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 130301,
+      "prob": 222
+    },
+    {
+      "id": 281,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 130701,
+      "prob": 222
+    },
+    {
+      "id": 282,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 330401,
+      "prob": 222
+    },
+    {
+      "id": 283,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 330501,
+      "prob": 222
+    },
+    {
+      "id": 284,
+      "group_id": 140002,
+      "gacha_type": "Character",
+      "gacha_id": 330801,
+      "prob": 222
+    },
+    {
+      "id": 285,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 314001,
+      "prob": 294
+    },
+    {
+      "id": 286,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 321001,
+      "prob": 294
+    },
+    {
+      "id": 287,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 319101,
+      "prob": 294
+    },
+    {
+      "id": 288,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 314201,
+      "prob": 294
+    },
+    {
+      "id": 289,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 313001,
+      "prob": 294
+    },
+    {
+      "id": 290,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 319001,
+      "prob": 294
+    },
+    {
+      "id": 291,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 320101,
+      "prob": 294
+    },
+    {
+      "id": 292,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 324101,
+      "prob": 294
+    },
+    {
+      "id": 293,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 343201,
+      "prob": 294
+    },
+    {
+      "id": 294,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 343101,
+      "prob": 294
+    },
+    {
+      "id": 295,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 343001,
+      "prob": 294
+    },
+    {
+      "id": 296,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 324201,
+      "prob": 294
+    },
+    {
+      "id": 297,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 321201,
+      "prob": 294
+    },
+    {
+      "id": 298,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 320201,
+      "prob": 294
+    },
+    {
+      "id": 299,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 320001,
+      "prob": 294
+    },
+    {
+      "id": 300,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 317101,
+      "prob": 294
+    },
+    {
+      "id": 301,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 314101,
+      "prob": 294
+    },
+    {
+      "id": 302,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 201001,
+      "prob": 333
+    },
+    {
+      "id": 303,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 201101,
+      "prob": 333
+    },
+    {
+      "id": 304,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 202001,
+      "prob": 333
+    },
+    {
+      "id": 305,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 112001,
+      "prob": 333
+    },
+    {
+      "id": 306,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 116101,
+      "prob": 333
+    },
+    {
+      "id": 307,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 129101,
+      "prob": 333
+    },
+    {
+      "id": 308,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 301201,
+      "prob": 333
+    },
+    {
+      "id": 309,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 306001,
+      "prob": 333
+    },
+    {
+      "id": 310,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 306101,
+      "prob": 333
+    },
+    {
+      "id": 311,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 230001,
+      "prob": 222
+    },
+    {
+      "id": 312,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 230101,
+      "prob": 222
+    },
+    {
+      "id": 313,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 230601,
+      "prob": 222
+    },
+    {
+      "id": 314,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 130201,
+      "prob": 222
+    },
+    {
+      "id": 315,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 130301,
+      "prob": 222
+    },
+    {
+      "id": 316,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 130701,
+      "prob": 222
+    },
+    {
+      "id": 317,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 330401,
+      "prob": 222
+    },
+    {
+      "id": 318,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 330501,
+      "prob": 222
+    },
+    {
+      "id": 319,
+      "group_id": 140003,
+      "gacha_type": "Character",
+      "gacha_id": 330801,
+      "prob": 222
+    },
+    {
+      "id": 320,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 423001,
+      "prob": 833
+    },
+    {
+      "id": 321,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 422001,
+      "prob": 833
+    },
+    {
+      "id": 322,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 423201,
+      "prob": 833
+    },
+    {
+      "id": 323,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 422201,
+      "prob": 833
+    },
+    {
+      "id": 324,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 423101,
+      "prob": 833
+    },
+    {
+      "id": 325,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 422101,
+      "prob": 833
+    },
+    {
+      "id": 326,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 201001,
+      "prob": 333
+    },
+    {
+      "id": 327,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 201101,
+      "prob": 333
+    },
+    {
+      "id": 328,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 202001,
+      "prob": 333
+    },
+    {
+      "id": 329,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 112001,
+      "prob": 333
+    },
+    {
+      "id": 330,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 116101,
+      "prob": 333
+    },
+    {
+      "id": 331,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 129101,
+      "prob": 333
+    },
+    {
+      "id": 332,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 301201,
+      "prob": 333
+    },
+    {
+      "id": 333,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 306001,
+      "prob": 333
+    },
+    {
+      "id": 334,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 306101,
+      "prob": 333
+    },
+    {
+      "id": 335,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 230001,
+      "prob": 222
+    },
+    {
+      "id": 336,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 230101,
+      "prob": 222
+    },
+    {
+      "id": 337,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 230601,
+      "prob": 222
+    },
+    {
+      "id": 338,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 130201,
+      "prob": 222
+    },
+    {
+      "id": 339,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 130301,
+      "prob": 222
+    },
+    {
+      "id": 340,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 130701,
+      "prob": 222
+    },
+    {
+      "id": 341,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 330401,
+      "prob": 222
+    },
+    {
+      "id": 342,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 330501,
+      "prob": 222
+    },
+    {
+      "id": 343,
+      "group_id": 140004,
+      "gacha_type": "Character",
+      "gacha_id": 330801,
+      "prob": 222
+    },
+    {
+      "id": 344,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 110201,
+      "prob": 157
+    },
+    {
+      "id": 345,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 314001,
+      "prob": 157
+    },
+    {
+      "id": 346,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 321001,
+      "prob": 157
+    },
+    {
+      "id": 347,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 319101,
+      "prob": 157
+    },
+    {
+      "id": 348,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 209001,
+      "prob": 157
+    },
+    {
+      "id": 349,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 116001,
+      "prob": 157
+    },
+    {
+      "id": 350,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 217001,
+      "prob": 157
+    },
+    {
+      "id": 351,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 314201,
+      "prob": 157
+    },
+    {
+      "id": 352,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 115001,
+      "prob": 157
+    },
+    {
+      "id": 353,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 202201,
+      "prob": 157
+    },
+    {
+      "id": 354,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 203001,
+      "prob": 157
+    },
+    {
+      "id": 355,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 203201,
+      "prob": 157
+    },
+    {
+      "id": 356,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 207001,
+      "prob": 157
+    },
+    {
+      "id": 357,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 207101,
+      "prob": 157
+    },
+    {
+      "id": 358,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 207201,
+      "prob": 157
+    },
+    {
+      "id": 359,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 108001,
+      "prob": 157
+    },
+    {
+      "id": 360,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 209201,
+      "prob": 157
+    },
+    {
+      "id": 361,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 110101,
+      "prob": 157
+    },
+    {
+      "id": 362,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 111001,
+      "prob": 157
+    },
+    {
+      "id": 363,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 313001,
+      "prob": 157
+    },
+    {
+      "id": 364,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 117201,
+      "prob": 157
+    },
+    {
+      "id": 365,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 218001,
+      "prob": 157
+    },
+    {
+      "id": 366,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 319001,
+      "prob": 157
+    },
+    {
+      "id": 367,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 320101,
+      "prob": 157
+    },
+    {
+      "id": 368,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 324101,
+      "prob": 157
+    },
+    {
+      "id": 369,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 343201,
+      "prob": 157
+    },
+    {
+      "id": 370,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 343101,
+      "prob": 157
+    },
+    {
+      "id": 371,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 343001,
+      "prob": 157
+    },
+    {
+      "id": 372,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 324201,
+      "prob": 157
+    },
+    {
+      "id": 373,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 218101,
+      "prob": 157
+    },
+    {
+      "id": 374,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 108201,
+      "prob": 157
+    },
+    {
+      "id": 375,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 321201,
+      "prob": 157
+    },
+    {
+      "id": 376,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 320201,
+      "prob": 157
+    },
+    {
+      "id": 377,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 320001,
+      "prob": 157
+    },
+    {
+      "id": 378,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 317101,
+      "prob": 157
+    },
+    {
+      "id": 379,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 314101,
+      "prob": 157
+    },
+    {
+      "id": 380,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 113101,
+      "prob": 157
+    },
+    {
+      "id": 381,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 209101,
+      "prob": 157
+    },
+    {
+      "id": 382,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 201001,
+      "prob": 444
+    },
+    {
+      "id": 383,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 201101,
+      "prob": 444
+    },
+    {
+      "id": 384,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 202001,
+      "prob": 444
+    },
+    {
+      "id": 385,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 112001,
+      "prob": 444
+    },
+    {
+      "id": 386,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 116101,
+      "prob": 444
+    },
+    {
+      "id": 387,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 129101,
+      "prob": 444
+    },
+    {
+      "id": 388,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 301201,
+      "prob": 444
+    },
+    {
+      "id": 389,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 306001,
+      "prob": 444
+    },
+    {
+      "id": 390,
+      "group_id": 150001,
+      "gacha_type": "Character",
+      "gacha_id": 306101,
+      "prob": 444
+    },
+    {
+      "id": 391,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 110201,
+      "prob": 52
+    },
+    {
+      "id": 392,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 314001,
+      "prob": 52
+    },
+    {
+      "id": 393,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 321001,
+      "prob": 52
+    },
+    {
+      "id": 394,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 319101,
+      "prob": 52
+    },
+    {
+      "id": 395,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 209001,
+      "prob": 52
+    },
+    {
+      "id": 396,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 116001,
+      "prob": 52
+    },
+    {
+      "id": 397,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 217001,
+      "prob": 52
+    },
+    {
+      "id": 398,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 314201,
+      "prob": 52
+    },
+    {
+      "id": 399,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 115001,
+      "prob": 52
+    },
+    {
+      "id": 400,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 202201,
+      "prob": 52
+    },
+    {
+      "id": 401,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 203001,
+      "prob": 52
+    },
+    {
+      "id": 402,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 203201,
+      "prob": 52
+    },
+    {
+      "id": 403,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 207001,
+      "prob": 52
+    },
+    {
+      "id": 404,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 207101,
+      "prob": 52
+    },
+    {
+      "id": 405,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 207201,
+      "prob": 52
+    },
+    {
+      "id": 406,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 108001,
+      "prob": 52
+    },
+    {
+      "id": 407,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 209201,
+      "prob": 52
+    },
+    {
+      "id": 408,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 110101,
+      "prob": 52
+    },
+    {
+      "id": 409,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 111001,
+      "prob": 52
+    },
+    {
+      "id": 410,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 313001,
+      "prob": 52
+    },
+    {
+      "id": 411,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 117201,
+      "prob": 52
+    },
+    {
+      "id": 412,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 218001,
+      "prob": 52
+    },
+    {
+      "id": 413,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 319001,
+      "prob": 52
+    },
+    {
+      "id": 414,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 320101,
+      "prob": 52
+    },
+    {
+      "id": 415,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 324101,
+      "prob": 52
+    },
+    {
+      "id": 416,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 343201,
+      "prob": 52
+    },
+    {
+      "id": 417,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 343101,
+      "prob": 52
+    },
+    {
+      "id": 418,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 343001,
+      "prob": 52
+    },
+    {
+      "id": 419,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 324201,
+      "prob": 52
+    },
+    {
+      "id": 420,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 218101,
+      "prob": 52
+    },
+    {
+      "id": 421,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 108201,
+      "prob": 52
+    },
+    {
+      "id": 422,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 321201,
+      "prob": 52
+    },
+    {
+      "id": 423,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 320201,
+      "prob": 52
+    },
+    {
+      "id": 424,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 320001,
+      "prob": 52
+    },
+    {
+      "id": 425,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 317101,
+      "prob": 52
+    },
+    {
+      "id": 426,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 314101,
+      "prob": 52
+    },
+    {
+      "id": 427,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 113101,
+      "prob": 52
+    },
+    {
+      "id": 428,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 209101,
+      "prob": 52
+    },
+    {
+      "id": 429,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 201001,
+      "prob": 888
+    },
+    {
+      "id": 430,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 201101,
+      "prob": 888
+    },
+    {
+      "id": 431,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 202001,
+      "prob": 888
+    },
+    {
+      "id": 432,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 112001,
+      "prob": 888
+    },
+    {
+      "id": 433,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 116101,
+      "prob": 888
+    },
+    {
+      "id": 434,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 129101,
+      "prob": 888
+    },
+    {
+      "id": 435,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 301201,
+      "prob": 888
+    },
+    {
+      "id": 436,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 306001,
+      "prob": 888
+    },
+    {
+      "id": 437,
+      "group_id": 150002,
+      "gacha_type": "Character",
+      "gacha_id": 306101,
+      "prob": 888
+    }
+  ]
+}

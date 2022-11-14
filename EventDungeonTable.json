@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "name": "STORY_EVENT_DUNGEON_NAME",
+      "bonus_reward_character_group": 1,
+      "bonus_reward_id": 7100001,
+      "difficult_group": 1001
+    },
+    {
+      "id": 2,
+      "name": "STORY_EVENT_DUNGEON_NAME",
+      "bonus_reward_character_group": 2,
+      "bonus_reward_id": 7100002,
+      "difficult_group": 1002
+    }
+  ]
+}

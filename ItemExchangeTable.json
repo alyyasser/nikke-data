@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10001,
+      "frequency_item_type": "Item",
+      "frequency_item_id": 7060001,
+      "frequency_item_count": 1,
+      "exchange_item_type": "Currency",
+      "exchange_item_id": 2000,
+      "exchange_item_count": 200
+    },
+    {
+      "id": 10002,
+      "frequency_item_type": "Item",
+      "frequency_item_id": 7060002,
+      "frequency_item_count": 999999,
+      "exchange_item_type": "Currency",
+      "exchange_item_id": 2000,
+      "exchange_item_count": 1
+    }
+  ]
+}

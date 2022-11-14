@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 103,
+      "group": 1,
+      "order": 1,
+      "name": "CHALLENGE_MISSION",
+      "description": "CHALLENGE_MISSION_INFO",
+      "mission_list_group": 103,
+      "point_resource": "None",
+      "init_type": "None"
+    },
+    {
+      "id": 203,
+      "group": 2,
+      "order": 1,
+      "name": "CHALLENGE_MISSION",
+      "description": "CHALLENGE_MISSION_INFO",
+      "mission_list_group": 203,
+      "point_resource": "None",
+      "init_type": "None"
+    }
+  ]
+}
