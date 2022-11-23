@@ -3609,7 +3609,7 @@
           "description_value": "42.81"
         },
         {
-          "description_value": "0.0121"
+          "description_value": "1.21"
         },
         {
           "description_value": "15"
@@ -40211,10 +40211,10 @@
           "description_value": "2"
         },
         {
-          "description_value": "10"
+          "description_value": "4.8"
         },
         {
-          "description_value": "2"
+          "description_value": "5"
         },
         {},
         {},
@@ -40241,10 +40241,10 @@
           "description_value": "2"
         },
         {
-          "description_value": "10"
+          "description_value": "5.14"
         },
         {
-          "description_value": "2"
+          "description_value": "5"
         },
         {},
         {},
@@ -40271,10 +40271,10 @@
           "description_value": "2"
         },
         {
-          "description_value": "10"
+          "description_value": "5.47"
         },
         {
-          "description_value": "2"
+          "description_value": "5"
         },
         {},
         {},
@@ -40301,10 +40301,10 @@
           "description_value": "2"
         },
         {
-          "description_value": "10"
+          "description_value": "5.81"
         },
         {
-          "description_value": "2"
+          "description_value": "5"
         },
         {},
         {},
@@ -40331,10 +40331,10 @@
           "description_value": "2"
         },
         {
-          "description_value": "10"
+          "description_value": "6.14"
         },
         {
-          "description_value": "2"
+          "description_value": "5"
         },
         {},
         {},
@@ -40361,10 +40361,10 @@
           "description_value": "2"
         },
         {
-          "description_value": "10"
+          "description_value": "6.48"
         },
         {
-          "description_value": "2"
+          "description_value": "5"
         },
         {},
         {},
@@ -40391,10 +40391,10 @@
           "description_value": "2"
         },
         {
-          "description_value": "10"
+          "description_value": "6.82"
         },
         {
-          "description_value": "2"
+          "description_value": "5"
         },
         {},
         {},
@@ -40421,10 +40421,10 @@
           "description_value": "2"
         },
         {
-          "description_value": "10"
+          "description_value": "7.15"
         },
         {
-          "description_value": "2"
+          "description_value": "5"
         },
         {},
         {},
@@ -40451,10 +40451,10 @@
           "description_value": "2"
         },
         {
-          "description_value": "10"
+          "description_value": "7.49"
         },
         {
-          "description_value": "2"
+          "description_value": "5"
         },
         {},
         {},
@@ -40481,10 +40481,10 @@
           "description_value": "2"
         },
         {
-          "description_value": "10"
+          "description_value": "7.82"
         },
         {
-          "description_value": "2"
+          "description_value": "5"
         },
         {},
         {},
@@ -88213,7 +88213,7 @@
       "info_description_localkey": "skill_name_1002",
       "description_value_list": [
         {
-          "description_value": "8.87"
+          "description_value": "2.11"
         },
         {
           "description_value": "5"
@@ -88243,7 +88243,7 @@
       "info_description_localkey": "skill_name_1002",
       "description_value_list": [
         {
-          "description_value": "9.55"
+          "description_value": "2.27"
         },
         {
           "description_value": "5"
@@ -88273,7 +88273,7 @@
       "info_description_localkey": "skill_name_1002",
       "description_value_list": [
         {
-          "description_value": "10.23"
+          "description_value": "2.43"
         },
         {
           "description_value": "5"
@@ -88303,7 +88303,7 @@
       "info_description_localkey": "skill_name_1002",
       "description_value_list": [
         {
-          "description_value": "10.92"
+          "description_value": "2.6"
         },
         {
           "description_value": "5"
@@ -88333,7 +88333,7 @@
       "info_description_localkey": "skill_name_1002",
       "description_value_list": [
         {
-          "description_value": "11.6"
+          "description_value": "2.76"
         },
         {
           "description_value": "5"
@@ -88363,7 +88363,7 @@
       "info_description_localkey": "skill_name_1002",
       "description_value_list": [
         {
-          "description_value": "12.28"
+          "description_value": "2.92"
         },
         {
           "description_value": "5"
@@ -88393,7 +88393,7 @@
       "info_description_localkey": "skill_name_1002",
       "description_value_list": [
         {
-          "description_value": "12.96"
+          "description_value": "3.08"
         },
         {
           "description_value": "5"
@@ -88423,7 +88423,7 @@
       "info_description_localkey": "skill_name_1002",
       "description_value_list": [
         {
-          "description_value": "13.65"
+          "description_value": "3.25"
         },
         {
           "description_value": "5"
@@ -88453,7 +88453,7 @@
       "info_description_localkey": "skill_name_1002",
       "description_value_list": [
         {
-          "description_value": "14.33"
+          "description_value": "3.41"
         },
         {
           "description_value": "5"
@@ -88483,7 +88483,7 @@
       "info_description_localkey": "skill_name_1002",
       "description_value_list": [
         {
-          "description_value": "15.01"
+          "description_value": "3.57"
         },
         {
           "description_value": "5"
@@ -88513,10 +88513,10 @@
       "info_description_localkey": "skill_name_1003",
       "description_value_list": [
         {
-          "description_value": "56.55"
+          "description_value": "48.25"
         },
         {
-          "description_value": "40.95"
+          "description_value": "8.73"
         },
         {},
         {},
@@ -88541,10 +88541,10 @@
       "info_description_localkey": "skill_name_1003",
       "description_value_list": [
         {
-          "description_value": "60.9"
+          "description_value": "51.96"
         },
         {
-          "description_value": "44.1"
+          "description_value": "9.4"
         },
         {},
         {},
@@ -88569,10 +88569,10 @@
       "info_description_localkey": "skill_name_1003",
       "description_value_list": [
         {
-          "description_value": "65.25"
+          "description_value": "55.68"
         },
         {
-          "description_value": "47.25"
+          "description_value": "10.08"
         },
         {},
         {},
@@ -88597,10 +88597,10 @@
       "info_description_localkey": "skill_name_1003",
       "description_value_list": [
         {
-          "description_value": "69.6"
+          "description_value": "59.39"
         },
         {
-          "description_value": "50.4"
+          "description_value": "10.75"
         },
         {},
         {},
@@ -88625,10 +88625,10 @@
       "info_description_localkey": "skill_name_1003",
       "description_value_list": [
         {
-          "description_value": "73.95"
+          "description_value": "63.1"
         },
         {
-          "description_value": "53.55"
+          "description_value": "11.42"
         },
         {},
         {},
@@ -88653,10 +88653,10 @@
       "info_description_localkey": "skill_name_1003",
       "description_value_list": [
         {
-          "description_value": "78.3"
+          "description_value": "66.81"
         },
         {
-          "description_value": "56.7"
+          "description_value": "12.09"
         },
         {},
         {},
@@ -88681,10 +88681,10 @@
       "info_description_localkey": "skill_name_1003",
       "description_value_list": [
         {
-          "description_value": "82.65"
+          "description_value": "70.52"
         },
         {
-          "description_value": "59.85"
+          "description_value": "12.76"
         },
         {},
         {},
@@ -88709,10 +88709,10 @@
       "info_description_localkey": "skill_name_1003",
       "description_value_list": [
         {
-          "description_value": "87"
+          "description_value": "74.24"
         },
         {
-          "description_value": "63"
+          "description_value": "13.44"
         },
         {},
         {},
@@ -88737,10 +88737,10 @@
       "info_description_localkey": "skill_name_1003",
       "description_value_list": [
         {
-          "description_value": "91.35"
+          "description_value": "77.95"
         },
         {
-          "description_value": "66.15"
+          "description_value": "14.11"
         },
         {},
         {},
@@ -88765,10 +88765,10 @@
       "info_description_localkey": "skill_name_1003",
       "description_value_list": [
         {
-          "description_value": "95.69"
+          "description_value": "81.66"
         },
         {
-          "description_value": "69.3"
+          "description_value": "14.78"
         },
         {},
         {},
@@ -88793,16 +88793,16 @@
       "info_description_localkey": "skill_name_1001",
       "description_value_list": [
         {
-          "description_value": "265.2"
+          "description_value": "530.4"
         },
         {
-          "description_value": "1.34"
+          "description_value": "8.58"
         },
         {
-          "description_value": "10"
+          "description_value": "5"
         },
         {
-          "description_value": "1.75"
+          "description_value": "7.03"
         },
         {},
         {},
@@ -88825,16 +88825,16 @@
       "info_description_localkey": "skill_name_1001",
       "description_value_list": [
         {
-          "description_value": "285.6"
+          "description_value": "571.2"
         },
         {
-          "description_value": "1.44"
+          "description_value": "9.24"
         },
         {
-          "description_value": "10"
+          "description_value": "5"
         },
         {
-          "description_value": "1.89"
+          "description_value": "7.57"
         },
         {},
         {},
@@ -88857,16 +88857,16 @@
       "info_description_localkey": "skill_name_1001",
       "description_value_list": [
         {
-          "description_value": "306"
+          "description_value": "612"
         },
         {
-          "description_value": "1.54"
+          "description_value": "9.9"
         },
         {
-          "description_value": "10"
+          "description_value": "5"
         },
         {
-          "description_value": "2.02"
+          "description_value": "8.11"
         },
         {},
         {},
@@ -88889,16 +88889,16 @@
       "info_description_localkey": "skill_name_1001",
       "description_value_list": [
         {
-          "description_value": "326.4"
+          "description_value": "652.8"
         },
         {
-          "description_value": "1.65"
+          "description_value": "10.56"
         },
         {
-          "description_value": "10"
+          "description_value": "5"
         },
         {
-          "description_value": "2.16"
+          "description_value": "8.65"
         },
         {},
         {},
@@ -88921,16 +88921,16 @@
       "info_description_localkey": "skill_name_1001",
       "description_value_list": [
         {
-          "description_value": "346.8"
+          "description_value": "693.6"
         },
         {
-          "description_value": "1.75"
+          "description_value": "11.22"
         },
         {
-          "description_value": "10"
+          "description_value": "5"
         },
         {
-          "description_value": "2.29"
+          "description_value": "9.19"
         },
         {},
         {},
@@ -88953,16 +88953,16 @@
       "info_description_localkey": "skill_name_1001",
       "description_value_list": [
         {
-          "description_value": "367.2"
+          "description_value": "734.4"
         },
         {
-          "description_value": "1.85"
+          "description_value": "11.88"
         },
         {
-          "description_value": "10"
+          "description_value": "5"
         },
         {
-          "description_value": "2.43"
+          "description_value": "9.73"
         },
         {},
         {},
@@ -88985,16 +88985,16 @@
       "info_description_localkey": "skill_name_1001",
       "description_value_list": [
         {
-          "description_value": "387.6"
+          "description_value": "775.2"
         },
         {
-          "description_value": "1.95"
+          "description_value": "12.54"
         },
         {
-          "description_value": "10"
+          "description_value": "5"
         },
         {
-          "description_value": "2.56"
+          "description_value": "10.27"
         },
         {},
         {},
@@ -89017,16 +89017,16 @@
       "info_description_localkey": "skill_name_1001",
       "description_value_list": [
         {
-          "description_value": "408"
+          "description_value": "816"
         },
         {
-          "description_value": "2.06"
+          "description_value": "13.2"
         },
         {
-          "description_value": "10"
+          "description_value": "5"
         },
         {
-          "description_value": "2.7"
+          "description_value": "10.81"
         },
         {},
         {},
@@ -89049,16 +89049,16 @@
       "info_description_localkey": "skill_name_1001",
       "description_value_list": [
         {
-          "description_value": "428.4"
+          "description_value": "856.8"
         },
         {
-          "description_value": "2.16"
+          "description_value": "13.86"
         },
         {
-          "description_value": "10"
+          "description_value": "5"
         },
         {
-          "description_value": "2.84"
+          "description_value": "11.36"
         },
         {},
         {},
@@ -89081,16 +89081,16 @@
       "info_description_localkey": "skill_name_1001",
       "description_value_list": [
         {
-          "description_value": "448.8"
+          "description_value": "897.6"
         },
         {
-          "description_value": "2.26"
+          "description_value": "14.52"
         },
         {
-          "description_value": "10"
+          "description_value": "5"
         },
         {
-          "description_value": "2.97"
+          "description_value": "11.9"
         },
         {},
         {},

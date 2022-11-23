@@ -134,7 +134,7 @@
       "type": "DamageDoneToTargetMonster",
       "value_min": 600001,
       "value_max": 1000000,
-      "reward_id": 200001
+      "reward_id": 200002
     },
     {
       "id": 200003,
@@ -143,7 +143,7 @@
       "type": "DamageDoneToTargetMonster",
       "value_min": 1000001,
       "value_max": 1400000,
-      "reward_id": 200002
+      "reward_id": 200003
     },
     {
       "id": 200004,
@@ -152,7 +152,7 @@
       "type": "DamageDoneToTargetMonster",
       "value_min": 1400001,
       "value_max": 1800000,
-      "reward_id": 200002
+      "reward_id": 200004
     },
     {
       "id": 200005,
@@ -161,7 +161,7 @@
       "type": "DamageDoneToTargetMonster",
       "value_min": 1800001,
       "value_max": 2200000,
-      "reward_id": 200003
+      "reward_id": 200005
     },
     {
       "id": 200006,
@@ -170,7 +170,7 @@
       "type": "DamageDoneToTargetMonster",
       "value_min": 2200001,
       "value_max": 2600000,
-      "reward_id": 200003
+      "reward_id": 200006
     },
     {
       "id": 200007,
@@ -179,7 +179,7 @@
       "type": "DamageDoneToTargetMonster",
       "value_min": 2600001,
       "value_max": 3100000,
-      "reward_id": 200004
+      "reward_id": 200007
     },
     {
       "id": 200008,
@@ -188,7 +188,7 @@
       "type": "DamageDoneToTargetMonster",
       "value_min": 3100001,
       "value_max": 3600000,
-      "reward_id": 200004
+      "reward_id": 200008
     },
     {
       "id": 200009,
@@ -197,7 +197,7 @@
       "type": "DamageDoneToTargetMonster",
       "value_min": 3600001,
       "value_max": 0,
-      "reward_id": 200005
+      "reward_id": 200009
     },
     {
       "id": 210001,

@@ -1044,6 +1044,14 @@
       "address": "spine/standing/c999/00_HD"
     },
     {
+      "id": "employee2",
+      "name_localkey": "npc_32_name",
+      "resource_id": 912,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c912/00_HD"
+    },
+    {
       "id": "barmaster",
       "name_localkey": "npc_33_name",
       "resource_id": 911,
@@ -2981,6 +2989,282 @@
       "skin_id": "default",
       "frame_type": "none",
       "address": "spine/standing/c917/00_HD"
+    },
+    {
+      "id": "exia_c",
+      "name_localkey": "210_name",
+      "resource_id": 210,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c210/01_HD",
+      "sd_resource_address": "c210_01_var"
+    },
+    {
+      "id": "rupee_w",
+      "name_localkey": "200_name",
+      "resource_id": 203,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c203/00_HD",
+      "sd_resource_address": "c203_00_var"
+    },
+    {
+      "id": "anne",
+      "name_localkey": "npc_221_name",
+      "resource_id": 121,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c121/00_HD",
+      "sd_resource_address": "c121_00_var"
+    },
+    {
+      "id": "emma_c",
+      "name_localkey": "90_name",
+      "resource_id": 90,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c090/01_HD",
+      "sd_resource_address": "c090_01_var"
+    },
+    {
+      "id": "angelina",
+      "name_localkey": "npc_222_name",
+      "resource_id": 934,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c934/00_HD"
+    },
+    {
+      "id": "neve",
+      "name_localkey": "193_name",
+      "resource_id": 193,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c193/00_HD",
+      "sd_resource_address": "c193_00_var"
+    },
+    {
+      "id": "joseph",
+      "name_localkey": "npc_224_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "anonymous",
+      "name_localkey": "npc_226_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "fatman",
+      "name_localkey": "npc_231_name",
+      "resource_id": 918,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c918/00_HD"
+    },
+    {
+      "id": "clubmanager",
+      "name_localkey": "npc_227_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "touter",
+      "name_localkey": "npc_228_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "clerk",
+      "name_localkey": "npc_229_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "waiter",
+      "name_localkey": "npc_230_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "fatprisoner",
+      "name_localkey": "npc_232_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "thinprisoner",
+      "name_localkey": "npc_233_name",
+      "resource_id": 918,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c918/00_HD"
+    },
+    {
+      "id": "warder",
+      "name_localkey": "npc_234_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "sin",
+      "name_localkey": "401_name",
+      "resource_id": 401,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c401/00_HD",
+      "sd_resource_address": "c401_00_var"
+    },
+    {
+      "id": "sin_op_c",
+      "name_localkey": "401_name",
+      "resource_id": 401,
+      "skin_id": "default",
+      "frame_type": "center",
+      "address": "spine/standing/c401/00_HD",
+      "sd_resource_address": "c401_00_var"
+    },
+    {
+      "id": "prisoner",
+      "name_localkey": "npc_235_name",
+      "resource_id": 307,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c307/00_HD"
+    },
+    {
+      "id": "guilty",
+      "name_localkey": "400_name",
+      "resource_id": 400,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c400/00_HD",
+      "sd_resource_address": "c400_00_var"
+    },
+    {
+      "id": "minirapture",
+      "name_localkey": "npc_237_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "sugar_p",
+      "name_localkey": "140_name",
+      "resource_id": 140,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c140/01_HD",
+      "sd_resource_address": "c140_01_var"
+    },
+    {
+      "id": "julia_p",
+      "name_localkey": "150_name",
+      "resource_id": 150,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c150/01_HD",
+      "sd_resource_address": "c150_01_var"
+    },
+    {
+      "id": "helm_p",
+      "name_localkey": "352_name",
+      "resource_id": 352,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c352/01_HD",
+      "sd_resource_address": "c352_01_var"
+    },
+    {
+      "id": "barista",
+      "name_localkey": "npc_236_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "quency",
+      "name_localkey": "402_name",
+      "resource_id": 402,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c402/00_HD",
+      "sd_resource_address": "c402_00_var"
+    },
+    {
+      "id": "dealprisoner",
+      "name_localkey": "npc_238_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "happyprisoner",
+      "name_localkey": "npc_239_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "leaderprisoner",
+      "name_localkey": "npc_240_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "timidprisone",
+      "name_localkey": "npc_241_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "poorprisoner",
+      "name_localkey": "npc_242_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "drunkprisoner",
+      "name_localkey": "npc_243_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "collaborator",
+      "name_localkey": "npc_244_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c911/00_HD"
     }
   ]
 }

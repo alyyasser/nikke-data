@@ -306,11 +306,27 @@
       "background_image": "sns_bg_default"
     },
     {
+      "id": "neve",
+      "type": "Nikke",
+      "name_locale": "193_name",
+      "status_message_locale": "193_intro",
+      "profile_image": "si_c193_00_s",
+      "background_image": "sns_bg_default"
+    },
+    {
       "id": "rupee",
       "type": "Nikke",
       "name_locale": "200_name",
       "status_message_locale": "200_intro",
       "profile_image": "si_c200_00_s",
+      "background_image": "sns_bg_default"
+    },
+    {
+      "id": "rupee_w",
+      "type": "Nikke",
+      "name_locale": "200_name",
+      "status_message_locale": "203_intro",
+      "profile_image": "si_c203_00_s",
       "background_image": "sns_bg_default"
     },
     {
@@ -546,6 +562,38 @@
       "background_image": "sns_bg_default"
     },
     {
+      "id": "anne_w",
+      "type": "Nikke",
+      "name_locale": "npc_221_name",
+      "status_message_locale": "121_intro",
+      "profile_image": "si_c121_00_s",
+      "background_image": "sns_bg_default"
+    },
+    {
+      "id": "exia_c",
+      "type": "Nikke",
+      "name_locale": "210_name",
+      "status_message_locale": "210_1_intro",
+      "profile_image": "si_c210_01_s",
+      "background_image": "sns_bg_default"
+    },
+    {
+      "id": "emma_c",
+      "type": "Nikke",
+      "name_locale": "90_name",
+      "status_message_locale": "90_1_intro",
+      "profile_image": "si_c090_01_s",
+      "background_image": "sns_bg_default"
+    },
+    {
+      "id": "maxwell_w",
+      "type": "Nikke",
+      "name_locale": "102_name",
+      "status_message_locale": "102_intro",
+      "profile_image": "si_c102_01_s",
+      "background_image": "sns_bg_default"
+    },
+    {
       "id": "andersen",
       "type": "NPC",
       "name_locale": "903_name",
@@ -726,6 +774,14 @@
       "type": "NPC",
       "name_locale": "npc_53_name",
       "status_message_locale": "npc_53_intro",
+      "profile_image": "icon_messenger_logo",
+      "background_image": "sns_bg_default"
+    },
+    {
+      "id": "dd",
+      "type": "NPC",
+      "name_locale": "npc_223_name",
+      "status_message_locale": "npc_223_intro",
       "profile_image": "icon_messenger_logo",
       "background_image": "sns_bg_default"
     },

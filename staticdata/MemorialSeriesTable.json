@@ -358,6 +358,30 @@
       "collect_reward_id": 100
     },
     {
+      "memorial_series_id": 101600,
+      "order": 16,
+      "memorial_series_name": "memorial_16_name",
+      "memorial_series_description": "memorial_16_description",
+      "memorial_series_category": "HandWriting",
+      "memorial_series_resource": "mm_1002",
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101601
+        },
+        {
+          "memorial_memory_id": 101602
+        },
+        {
+          "memorial_memory_id": 101603
+        },
+        {
+          "memorial_memory_id": 101604
+        },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
       "memorial_series_id": 101700,
       "order": 17,
       "memorial_series_name": "memorial_17_name",
@@ -379,6 +403,32 @@
         },
         {
           "memorial_memory_id": 101705
+        }
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 101800,
+      "order": 18,
+      "memorial_series_name": "memorial_18_name",
+      "memorial_series_description": "memorial_18_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1004",
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 101801
+        },
+        {
+          "memorial_memory_id": 101802
+        },
+        {
+          "memorial_memory_id": 101803
+        },
+        {
+          "memorial_memory_id": 101804
+        },
+        {
+          "memorial_memory_id": 101805
         }
       ],
       "collect_reward_id": 100
@@ -471,6 +521,28 @@
         {
           "memorial_memory_id": 102204
         },
+        {}
+      ],
+      "collect_reward_id": 100
+    },
+    {
+      "memorial_series_id": 102300,
+      "order": 23,
+      "memorial_series_name": "memorial_23_name",
+      "memorial_series_description": "memorial_23_description",
+      "memorial_series_category": "Data",
+      "memorial_series_resource": "mm_1004",
+      "memorial_memory_id": [
+        {
+          "memorial_memory_id": 102301
+        },
+        {
+          "memorial_memory_id": 102302
+        },
+        {
+          "memorial_memory_id": 102303
+        },
+        {},
         {}
       ],
       "collect_reward_id": 100

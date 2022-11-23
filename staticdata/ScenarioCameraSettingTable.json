@@ -1950,6 +1950,108 @@
       "position_x": 1.0,
       "position_y": -1.4,
       "position_z": -67.8
+    },
+    {
+      "id": "rupee_anne_01",
+      "position_x": 8.05,
+      "position_y": 1.99,
+      "position_z": -14.29
+    },
+    {
+      "id": "rupee_anne_02",
+      "position_x": 3.57,
+      "position_y": 1.99,
+      "position_z": -14.29
+    },
+    {
+      "id": "rupee_anne_03",
+      "position_x": 3.57,
+      "position_y": 1.99,
+      "position_z": -8.59
+    },
+    {
+      "id": "anne_angelina_01",
+      "position_x": 9.97,
+      "position_y": 4.63,
+      "position_z": -13.27
+    },
+    {
+      "id": "anne_angelina_02",
+      "position_x": 0.98,
+      "position_y": 4.63,
+      "position_z": -13.27
+    },
+    {
+      "id": "anne_angelina_03",
+      "position_x": 0.98,
+      "position_y": 7.26,
+      "position_z": 3.76
+    },
+    {
+      "id": "anne_angelina_04",
+      "position_x": 7.2,
+      "position_y": 4.83,
+      "position_z": 25.15
+    },
+    {
+      "id": "n102_angelina_01",
+      "position_x": 9.97,
+      "position_y": 4.63,
+      "position_z": -13.27
+    },
+    {
+      "id": "n102_angelina_02",
+      "position_x": 0.98,
+      "position_y": 4.63,
+      "position_z": -13.27
+    },
+    {
+      "id": "n102_angelina_03",
+      "position_x": 0.98,
+      "position_y": 7.26,
+      "position_z": 3.76
+    },
+    {
+      "id": "blue_butterfly_01",
+      "position_x": 17.7,
+      "position_y": -19.07,
+      "position_z": 23.6
+    },
+    {
+      "id": "blue_butterfly_02",
+      "position_x": 17.7,
+      "position_y": 6.01,
+      "position_z": 23.6
+    },
+    {
+      "id": "blue_butterfly_03",
+      "position_x": -2.1,
+      "position_y": 19.15,
+      "position_z": 23.6
+    },
+    {
+      "id": "guilty_zoom3",
+      "position_x": 0.31,
+      "position_y": 1.59,
+      "position_z": 8.95
+    },
+    {
+      "id": "happynewyear_01",
+      "position_x": 0.0,
+      "position_y": 8.24,
+      "position_z": 0.0
+    },
+    {
+      "id": "happynewyear_02",
+      "position_x": 0.0,
+      "position_y": -8.52,
+      "position_z": 0.0
+    },
+    {
+      "id": "happynewyear_03",
+      "position_x": 0.0,
+      "position_y": -8.52,
+      "position_z": 8.58
     }
   ]
 }

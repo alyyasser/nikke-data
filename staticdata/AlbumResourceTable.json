@@ -1714,6 +1714,318 @@
       "is_hidden": true
     },
     {
+      "id": 215,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_185_a",
+      "scenario_group_id": "d_main_17_01_s",
+      "is_hidden": true
+    },
+    {
+      "id": 216,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_185_b",
+      "scenario_group_id": "d_main_17_01_e",
+      "is_hidden": true
+    },
+    {
+      "id": 217,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_186",
+      "scenario_group_id": "d_main_17_02",
+      "is_hidden": true
+    },
+    {
+      "id": 218,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_187_a",
+      "scenario_group_id": "d_main_17_03_s",
+      "is_hidden": true
+    },
+    {
+      "id": 219,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_187_b",
+      "scenario_group_id": "d_main_17_03_e",
+      "is_hidden": true
+    },
+    {
+      "id": 220,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_188",
+      "scenario_group_id": "d_main_17_04",
+      "is_hidden": true
+    },
+    {
+      "id": 221,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_189_a",
+      "scenario_group_id": "d_main_17_05_s",
+      "is_hidden": true
+    },
+    {
+      "id": 222,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_189_b",
+      "scenario_group_id": "d_main_17_05_e",
+      "is_hidden": true
+    },
+    {
+      "id": 223,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_190",
+      "scenario_group_id": "d_main_17_06",
+      "is_hidden": true
+    },
+    {
+      "id": 224,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_191",
+      "scenario_group_id": "d_main_17_07",
+      "is_hidden": true
+    },
+    {
+      "id": 225,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_192",
+      "scenario_group_id": "d_main_17_08",
+      "is_hidden": true
+    },
+    {
+      "id": 226,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_193",
+      "scenario_group_id": "d_main_17_09",
+      "is_hidden": true
+    },
+    {
+      "id": 227,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_194",
+      "scenario_group_id": "d_main_17_10",
+      "is_hidden": true
+    },
+    {
+      "id": 228,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_195",
+      "scenario_group_id": "d_main_17_11",
+      "is_hidden": true
+    },
+    {
+      "id": 229,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_196",
+      "scenario_group_id": "d_main_17_12",
+      "is_hidden": true
+    },
+    {
+      "id": 230,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_197",
+      "scenario_group_id": "d_main_17af_01",
+      "is_hidden": true
+    },
+    {
+      "id": 231,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_198",
+      "scenario_group_id": "d_main_17af_02",
+      "is_hidden": true
+    },
+    {
+      "id": 232,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_199",
+      "scenario_group_id": "d_main_17af_03",
+      "is_hidden": true
+    },
+    {
+      "id": 233,
+      "sub_category_id": 17,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_200",
+      "scenario_group_id": "d_main_17af_04",
+      "is_hidden": true
+    },
+    {
+      "id": 234,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_201",
+      "scenario_group_id": "d_main_18_01",
+      "is_hidden": true
+    },
+    {
+      "id": 235,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_202",
+      "scenario_group_id": "d_main_18_02",
+      "is_hidden": true
+    },
+    {
+      "id": 236,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_203",
+      "scenario_group_id": "d_main_18_03",
+      "is_hidden": true
+    },
+    {
+      "id": 237,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_204",
+      "scenario_group_id": "d_main_18_04",
+      "is_hidden": true
+    },
+    {
+      "id": 238,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_205",
+      "scenario_group_id": "d_main_18_05",
+      "is_hidden": true
+    },
+    {
+      "id": 239,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_206",
+      "scenario_group_id": "d_main_18_06",
+      "is_hidden": true
+    },
+    {
+      "id": 240,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_207_a",
+      "scenario_group_id": "d_main_18_07_s",
+      "is_hidden": true
+    },
+    {
+      "id": 241,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_207_b",
+      "scenario_group_id": "d_main_18_07_e",
+      "is_hidden": true
+    },
+    {
+      "id": 242,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_208",
+      "scenario_group_id": "d_main_18_08",
+      "is_hidden": true
+    },
+    {
+      "id": 243,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_209",
+      "scenario_group_id": "d_main_18_09",
+      "is_hidden": true
+    },
+    {
+      "id": 244,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_210",
+      "scenario_group_id": "d_main_18_10",
+      "is_hidden": true
+    },
+    {
+      "id": 245,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_211",
+      "scenario_group_id": "d_main_18_11",
+      "is_hidden": true
+    },
+    {
+      "id": 246,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_212_a",
+      "scenario_group_id": "d_main_18_12_s",
+      "is_hidden": true
+    },
+    {
+      "id": 247,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_212_b",
+      "scenario_group_id": "d_main_18_12_e",
+      "is_hidden": true
+    },
+    {
+      "id": 248,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_213",
+      "scenario_group_id": "d_main_18af_01",
+      "is_hidden": true
+    },
+    {
+      "id": 249,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_214",
+      "scenario_group_id": "d_main_18af_02",
+      "is_hidden": true
+    },
+    {
+      "id": 250,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_215",
+      "scenario_group_id": "d_main_18af_03",
+      "is_hidden": true
+    },
+    {
+      "id": 251,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_216",
+      "scenario_group_id": "d_main_18af_04",
+      "is_hidden": true
+    },
+    {
+      "id": 252,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_217",
+      "scenario_group_id": "d_main_18af_05",
+      "is_hidden": true
+    },
+    {
+      "id": 253,
+      "sub_category_id": 18,
+      "scenario_name_localtable": "Locale_MainQuest",
+      "scenario_name_localkey": "main_quest_description_localkey_218",
+      "scenario_group_id": "d_main_18af_06",
+      "is_hidden": true
+    },
+    {
       "id": 1010101,
       "sub_category_id": 10101,
       "scenario_name_localtable": "Locale_SuddenStory",

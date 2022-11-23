@@ -14,8 +14,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_DAILY_LOGIN_01",
       "thumbnail_color": "000000",
       "event_banner_resource_id": "EVENT_BANNER_DAILY_LOGIN_01_S",
-      "event_order": 1,
-      "relate_event_id": 0
+      "event_order": 8789959
     },
     {
       "id": 10002,
@@ -30,8 +29,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_DAILY_LOGIN_02",
       "thumbnail_color": "181b1d",
       "event_banner_resource_id": "EVENT_BANNER_DAILY_LOGIN_02_S",
-      "event_order": 1,
-      "relate_event_id": 0
+      "event_order": 8779959
     },
     {
       "id": 20001,
@@ -46,8 +44,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_DAILY_MISSION",
       "thumbnail_color": "00AEFF",
       "event_banner_resource_id": "EVENT_BANNER_DAILY_MISSION_S",
-      "event_order": 2,
-      "relate_event_id": 0
+      "event_order": 8799969
     },
     {
       "id": 30001,
@@ -62,8 +59,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_COOPERATION",
       "thumbnail_color": "0C0C0C",
       "event_banner_resource_id": "EVENT_BANNER_COOPERATION_S",
-      "event_order": 3,
-      "relate_event_id": 0
+      "event_order": 8789929
     },
     {
       "id": 30002,
@@ -78,8 +74,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_COOPERATION",
       "thumbnail_color": "0C0C0C",
       "event_banner_resource_id": "EVENT_BANNER_COOPERATION_S",
-      "event_order": 3,
-      "relate_event_id": 0
+      "event_order": 8779929
     },
     {
       "id": 40001,
@@ -94,8 +89,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_NOCALLERID",
       "thumbnail_color": "16171D",
       "event_banner_resource_id": "EVENT_BANNER_NOCALLERID_S",
-      "event_order": 4,
-      "relate_event_id": 0
+      "event_order": 8789949
     },
     {
       "id": 40002,
@@ -110,8 +104,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_HIGHTECHTOY",
       "thumbnail_color": "1B31D8",
       "event_banner_resource_id": "EVENT_BANNER_HIGHTECHTOY_S",
-      "event_order": 4,
-      "relate_event_id": 0
+      "event_order": 8779949
     },
     {
       "id": 50001,
@@ -126,8 +119,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_OBT_SURVEY_01",
       "thumbnail_color": "29293D",
       "event_banner_resource_id": "EVENT_BANNER_OBT_SURVEY_01_S",
-      "event_order": 5,
-      "relate_event_id": 0
+      "event_order": 8799979
     },
     {
       "id": 50002,
@@ -142,8 +134,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_OBT_SURVEY_01",
       "thumbnail_color": "29293D",
       "event_banner_resource_id": "EVENT_BANNER_OBT_SURVEY_01_S",
-      "event_order": 5,
-      "relate_event_id": 0
+      "event_order": 8799979
     },
     {
       "id": 70001,
@@ -158,8 +149,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C352",
       "thumbnail_color": "091627",
       "event_banner_resource_id": "EVENT_BANNER_GACHA_C352_S",
-      "event_order": 8,
-      "relate_event_id": 0
+      "event_order": 8789889
     },
     {
       "id": 70004,
@@ -174,8 +164,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C100",
       "thumbnail_color": "000000",
       "event_banner_resource_id": "EVENT_BANNER_GACHA_C100_S",
-      "event_order": 8,
-      "relate_event_id": 0
+      "event_order": 8779889
     }
   ]
 }

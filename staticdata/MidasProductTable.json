@@ -200,6 +200,33 @@
       "cost": "54.99"
     },
     {
+      "id": 10200601,
+      "product_type": "PackageShop",
+      "product_id": 200601,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.commander01_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.commander01_01",
+      "cost": "14.99"
+    },
+    {
+      "id": 10200602,
+      "product_type": "PackageShop",
+      "product_id": 200602,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.commander01_02",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.commander01_02",
+      "cost": "29.99"
+    },
+    {
+      "id": 10200603,
+      "product_type": "PackageShop",
+      "product_id": 200603,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.commander01_03",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.commander01_03",
+      "cost": "54.99"
+    },
+    {
       "id": 10300101,
       "product_type": "PackageShop",
       "product_id": 300101,
@@ -890,87 +917,6 @@
       "item_type": "Item",
       "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagetetratw9",
       "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagetetratw9",
-      "cost": "99.99"
-    },
-    {
-      "id": 21060031,
-      "product_type": "PopupPackageShop",
-      "product_id": 106001,
-      "item_type": "Item",
-      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagepilgrimtw1",
-      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagepilgrimtw1",
-      "cost": "0.99"
-    },
-    {
-      "id": 21060032,
-      "product_type": "PopupPackageShop",
-      "product_id": 106002,
-      "item_type": "Item",
-      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagepilgrimtw2",
-      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagepilgrimtw2",
-      "cost": "4.99"
-    },
-    {
-      "id": 21060033,
-      "product_type": "PopupPackageShop",
-      "product_id": 106003,
-      "item_type": "Item",
-      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagepilgrimtw3",
-      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagepilgrimtw3",
-      "cost": "9.99"
-    },
-    {
-      "id": 21060034,
-      "product_type": "PopupPackageShop",
-      "product_id": 106004,
-      "item_type": "Item",
-      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagepilgrimtw4",
-      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagepilgrimtw4",
-      "cost": "14.99"
-    },
-    {
-      "id": 21060035,
-      "product_type": "PopupPackageShop",
-      "product_id": 106005,
-      "item_type": "Item",
-      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagepilgrimtw5",
-      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagepilgrimtw5",
-      "cost": "19.99"
-    },
-    {
-      "id": 21060036,
-      "product_type": "PopupPackageShop",
-      "product_id": 106006,
-      "item_type": "Item",
-      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagepilgrimtw6",
-      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagepilgrimtw6",
-      "cost": "24.99"
-    },
-    {
-      "id": 21060037,
-      "product_type": "PopupPackageShop",
-      "product_id": 106007,
-      "item_type": "Item",
-      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagepilgrimtw7",
-      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagepilgrimtw7",
-      "cost": "29.99"
-    },
-    {
-      "id": 21060038,
-      "product_type": "PopupPackageShop",
-      "product_id": 106008,
-      "item_type": "Item",
-      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagepilgrimtw8",
-      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagepilgrimtw8",
-      "cost": "54.99"
-    },
-    {
-      "id": 21060039,
-      "product_type": "PopupPackageShop",
-      "product_id": 106009,
-      "item_type": "Item",
-      "midas_product_id_proximabeta": "com.proximabeta.nikke.popuppackagepilgrimtw9",
-      "midas_product_id_gamamobi": "com.gamamobi.nikke.popuppackagepilgrimtw9",
       "cost": "99.99"
     },
     {

@@ -104,6 +104,14 @@
       "order": 13,
       "theme_resource": "album_field_09",
       "bg_color": "8E8E8E"
+    },
+    {
+      "id": 14,
+      "name_localkey": "bgm_theme_field_10",
+      "description_localkey": "bgm_theme_field_10_description",
+      "order": 14,
+      "theme_resource": "album_field_10",
+      "bg_color": "FF9600"
     }
   ]
 }

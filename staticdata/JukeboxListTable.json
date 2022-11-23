@@ -262,8 +262,8 @@
       "name": "Tuff Guys",
       "order": 5,
       "artist": "ko.yo",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "54017202"
     },
     {
       "id": 3006,
@@ -286,8 +286,8 @@
       "name": "Crawling Anxiety",
       "order": 7,
       "artist": "Asha",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "50018205"
     },
     {
       "id": 3008,
@@ -298,8 +298,8 @@
       "name": "Armageddon",
       "order": 8,
       "artist": "ko.yo",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "54017203"
     },
     {
       "id": 3009,
@@ -322,8 +322,8 @@
       "name": "Here Comes Trouble",
       "order": 10,
       "artist": "Asha",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "50017203"
     },
     {
       "id": 3011,
@@ -370,8 +370,8 @@
       "name": "Girl's Talk",
       "order": 14,
       "artist": "Muwen",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "50018203"
     },
     {
       "id": 3015,
@@ -406,8 +406,8 @@
       "name": "Online Shopping",
       "order": 17,
       "artist": "Benicx",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "54018205"
     },
     {
       "id": 3018,
@@ -442,8 +442,8 @@
       "name": "Destined to Fight",
       "order": 20,
       "artist": "ESTi",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "50018204"
     },
     {
       "id": 3021,
@@ -454,8 +454,8 @@
       "name": "Shape Of Hope",
       "order": 21,
       "artist": "Muwen",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "50017204"
     },
     {
       "id": 3022,
@@ -502,6 +502,18 @@
       "name": "Sunny Carnival",
       "order": 25,
       "artist": "Soochan",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50018207"
+    },
+    {
+      "id": 3026,
+      "theme": 3,
+      "bgm": "bgm_story_callingsignal",
+      "is_loop": true,
+      "play_time": 81,
+      "name": "Calling Signal",
+      "order": 26,
+      "artist": "Cosmograph",
       "get_info_type": "Locale",
       "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
     },
@@ -521,10 +533,10 @@
     {
       "id": 4002,
       "theme": 4,
-      "bgm": "event_bgm_marian",
-      "is_loop": false,
-      "play_time": 159,
-      "name": "Marian",
+      "bgm": "event_bgm_laplace",
+      "is_loop": true,
+      "play_time": 85,
+      "name": "Para-DICE",
       "order": 2,
       "artist": "Cosmograph",
       "is_default_bgm": true,
@@ -669,6 +681,19 @@
       "play_time": 48,
       "name": "Fairy Tale's End",
       "order": 11,
+      "artist": "Cosmograph",
+      "is_default_bgm": true,
+      "get_info_type": "Locale",
+      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
+    },
+    {
+      "id": 5012,
+      "theme": 5,
+      "bgm": "event_bgm_marian",
+      "is_loop": false,
+      "play_time": 159,
+      "name": "Marian",
+      "order": 12,
       "artist": "Cosmograph",
       "is_default_bgm": true,
       "get_info_type": "Locale",
@@ -1091,8 +1116,8 @@
       "name": "Frost Pillar [Scenario Ver.]",
       "order": 1,
       "artist": "Feryquitous",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "50017201"
     },
     {
       "id": 9002,
@@ -1151,8 +1176,8 @@
       "name": "The Pilgrim",
       "order": 6,
       "artist": "Cosmograph",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "50017202"
     },
     {
       "id": 9014,
@@ -1187,8 +1212,8 @@
       "name": "below zero",
       "order": 9,
       "artist": "Feryquitous",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "54017201"
     },
     {
       "id": 9009,
@@ -1556,7 +1581,7 @@
       "bgm": "bgm_spot_goundzero_a",
       "is_loop": true,
       "play_time": 94,
-      "name": "GoundZero",
+      "name": "GroundZero",
       "order": 5,
       "artist": "KARUT",
       "get_info_type": "FieldItem",
@@ -1568,7 +1593,7 @@
       "bgm": "bgm_spot_goundzero_b",
       "is_loop": true,
       "play_time": 93,
-      "name": "GoundZero - Blaster Mix -",
+      "name": "GroundZero - Blaster Mix -",
       "order": 6,
       "artist": "KARUT",
       "get_info_type": "FieldItem",
@@ -1693,6 +1718,162 @@
       "artist": "Cosmograph",
       "get_info_type": "FieldItem",
       "get_info_value": "54014204"
+    },
+    {
+      "id": 14007,
+      "theme": 14,
+      "bgm": "bgm_blackgunsmoke",
+      "is_loop": true,
+      "play_time": 63,
+      "name": "Black Gunsmoke [Scenario Ver.]",
+      "order": 1,
+      "artist": "AJURIKA",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50017206"
+    },
+    {
+      "id": 14008,
+      "theme": 14,
+      "bgm": "bgm_blackgunsmoke_a",
+      "is_loop": true,
+      "play_time": 75,
+      "name": "Black Gunsmoke",
+      "order": 2,
+      "artist": "AJURIKA",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50017207"
+    },
+    {
+      "id": 14009,
+      "theme": 14,
+      "bgm": "bgm_blackgunsmoke_b",
+      "is_loop": true,
+      "play_time": 75,
+      "name": "Black Gunsmoke - haze shadow -",
+      "order": 3,
+      "artist": "AJURIKA",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54017205"
+    },
+    {
+      "id": 14010,
+      "theme": 14,
+      "bgm": "bgm_spot_metalacid_a",
+      "is_loop": true,
+      "play_time": 92,
+      "name": "Metal Acid",
+      "order": 4,
+      "artist": "AJURIKA",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50017205"
+    },
+    {
+      "id": 14011,
+      "theme": 14,
+      "bgm": "bgm_spot_metalacid_b",
+      "is_loop": true,
+      "play_time": 92,
+      "name": "Metal Acid - Acid Burst -",
+      "order": 5,
+      "artist": "AJURIKA",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54017206"
+    },
+    {
+      "id": 14012,
+      "theme": 14,
+      "bgm": "bgm_story_6f6e6573656c66",
+      "is_loop": true,
+      "play_time": 102,
+      "name": "bgm_story_6f6e6573656c66",
+      "order": 6,
+      "artist": "Cosmograph",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54017204"
+    },
+    {
+      "id": 14001,
+      "theme": 14,
+      "bgm": "bgm_underwaterflowers",
+      "is_loop": true,
+      "play_time": 70,
+      "name": "Underwater Flowers [Scenario Ver.]",
+      "order": 7,
+      "artist": "AJURIKA",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54018203"
+    },
+    {
+      "id": 14002,
+      "theme": 14,
+      "bgm": "bgm_underwaterflowers_a",
+      "is_loop": true,
+      "play_time": 70,
+      "name": "Underwater Flowers",
+      "order": 8,
+      "artist": "AJURIKA",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50018201"
+    },
+    {
+      "id": 14003,
+      "theme": 14,
+      "bgm": "bgm_underwaterflowers_b",
+      "is_loop": true,
+      "play_time": 70,
+      "name": "Underwater Flowers - Lotus -",
+      "order": 9,
+      "artist": "AJURIKA",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54018201"
+    },
+    {
+      "id": 14004,
+      "theme": 14,
+      "bgm": "bgm_spot_wingsofvictory_a",
+      "is_loop": true,
+      "play_time": 86,
+      "name": "The Wings of Victory [Inst Ver.]",
+      "order": 10,
+      "artist": "AJURIKA",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50018202"
+    },
+    {
+      "id": 14005,
+      "theme": 14,
+      "bgm": "bgm_spot_wingsofvictory_b",
+      "is_loop": true,
+      "play_time": 86,
+      "name": "The Wings of Victory",
+      "order": 11,
+      "artist": "AJURIKA",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54018202"
+    },
+    {
+      "id": 14006,
+      "theme": 14,
+      "bgm": "bgm_boss_eba001",
+      "is_loop": true,
+      "play_time": 138,
+      "name": "Tempest",
+      "order": 13,
+      "artist": "Cosmograph",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54018204"
+    },
+    {
+      "id": 14013,
+      "theme": 14,
+      "bgm": "event_bgm_hero",
+      "is_loop": false,
+      "play_time": 214,
+      "name": "Hero",
+      "order": 14,
+      "artist": "Moeki Harada (Vocal. Luna Goami)",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50018206"
     }
   ]
 }

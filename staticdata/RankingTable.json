@@ -866,6 +866,33 @@
       "server_reward_id": 15000001
     },
     {
+      "id": 20017,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 17,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20018,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 18,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
+      "id": 20019,
+      "ranking_type": "HardCampaign",
+      "condition_type": "None",
+      "condition_id": 19,
+      "condition_value": 1,
+      "description_localkey": "RANKING_HARD_STAGE_CLEAR",
+      "server_reward_id": 15000001
+    },
+    {
       "id": 30101,
       "ranking_type": "TowerTribe",
       "condition_type": "None",

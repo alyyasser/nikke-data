@@ -55624,7 +55624,7 @@
         0
       ],
       "after_use_function_id_list": [
-        0
+        118120102
       ],
       "after_hurt_function_id_list": [
         118120101
@@ -55671,7 +55671,7 @@
         0
       ],
       "after_use_function_id_list": [
-        0
+        118120202
       ],
       "after_hurt_function_id_list": [
         118120201
@@ -55718,7 +55718,7 @@
         0
       ],
       "after_use_function_id_list": [
-        0
+        118120302
       ],
       "after_hurt_function_id_list": [
         118120301
@@ -55765,7 +55765,7 @@
         0
       ],
       "after_use_function_id_list": [
-        0
+        118120402
       ],
       "after_hurt_function_id_list": [
         118120401
@@ -55812,7 +55812,7 @@
         0
       ],
       "after_use_function_id_list": [
-        0
+        118120502
       ],
       "after_hurt_function_id_list": [
         118120501
@@ -55859,7 +55859,7 @@
         0
       ],
       "after_use_function_id_list": [
-        0
+        118120602
       ],
       "after_hurt_function_id_list": [
         118120601
@@ -55906,7 +55906,7 @@
         0
       ],
       "after_use_function_id_list": [
-        0
+        118120702
       ],
       "after_hurt_function_id_list": [
         118120701
@@ -55953,7 +55953,7 @@
         0
       ],
       "after_use_function_id_list": [
-        0
+        118120802
       ],
       "after_hurt_function_id_list": [
         118120801
@@ -56000,7 +56000,7 @@
         0
       ],
       "after_use_function_id_list": [
-        0
+        118120902
       ],
       "after_hurt_function_id_list": [
         118120901
@@ -56047,7 +56047,7 @@
         0
       ],
       "after_use_function_id_list": [
-        0
+        118121002
       ],
       "after_hurt_function_id_list": [
         118121001
@@ -63646,11 +63646,11 @@
       "skill_value_data": [
         {
           "skill_value_type": "Percent",
-          "skill_value": 26520
+          "skill_value": 53040
         },
         {
           "skill_value_type": "Percent",
-          "skill_value": 134
+          "skill_value": 858
         },
         {
           "skill_value_type": "Integer",
@@ -63666,7 +63666,7 @@
         }
       ],
       "duration_type": "TimeSec",
-      "duration_value": 1000,
+      "duration_value": 500,
       "before_use_function_id_list": [
         0
       ],
@@ -63693,11 +63693,11 @@
       "skill_value_data": [
         {
           "skill_value_type": "Percent",
-          "skill_value": 28560
+          "skill_value": 57120
         },
         {
           "skill_value_type": "Percent",
-          "skill_value": 144
+          "skill_value": 924
         },
         {
           "skill_value_type": "Integer",
@@ -63713,7 +63713,7 @@
         }
       ],
       "duration_type": "TimeSec",
-      "duration_value": 1000,
+      "duration_value": 500,
       "before_use_function_id_list": [
         0
       ],
@@ -63740,11 +63740,11 @@
       "skill_value_data": [
         {
           "skill_value_type": "Percent",
-          "skill_value": 30600
+          "skill_value": 61200
         },
         {
           "skill_value_type": "Percent",
-          "skill_value": 154
+          "skill_value": 990
         },
         {
           "skill_value_type": "Integer",
@@ -63760,7 +63760,7 @@
         }
       ],
       "duration_type": "TimeSec",
-      "duration_value": 1000,
+      "duration_value": 500,
       "before_use_function_id_list": [
         0
       ],
@@ -63787,11 +63787,11 @@
       "skill_value_data": [
         {
           "skill_value_type": "Percent",
-          "skill_value": 32640
+          "skill_value": 65280
         },
         {
           "skill_value_type": "Percent",
-          "skill_value": 165
+          "skill_value": 1056
         },
         {
           "skill_value_type": "Integer",
@@ -63807,7 +63807,7 @@
         }
       ],
       "duration_type": "TimeSec",
-      "duration_value": 1000,
+      "duration_value": 500,
       "before_use_function_id_list": [
         0
       ],
@@ -63834,11 +63834,11 @@
       "skill_value_data": [
         {
           "skill_value_type": "Percent",
-          "skill_value": 34680
+          "skill_value": 69360
         },
         {
           "skill_value_type": "Percent",
-          "skill_value": 175
+          "skill_value": 1122
         },
         {
           "skill_value_type": "Integer",
@@ -63854,7 +63854,7 @@
         }
       ],
       "duration_type": "TimeSec",
-      "duration_value": 1000,
+      "duration_value": 500,
       "before_use_function_id_list": [
         0
       ],
@@ -63881,11 +63881,11 @@
       "skill_value_data": [
         {
           "skill_value_type": "Percent",
-          "skill_value": 36720
+          "skill_value": 73440
         },
         {
           "skill_value_type": "Percent",
-          "skill_value": 185
+          "skill_value": 1188
         },
         {
           "skill_value_type": "Integer",
@@ -63901,7 +63901,7 @@
         }
       ],
       "duration_type": "TimeSec",
-      "duration_value": 1000,
+      "duration_value": 500,
       "before_use_function_id_list": [
         0
       ],
@@ -63928,11 +63928,11 @@
       "skill_value_data": [
         {
           "skill_value_type": "Percent",
-          "skill_value": 38760
+          "skill_value": 77520
         },
         {
           "skill_value_type": "Percent",
-          "skill_value": 195
+          "skill_value": 1254
         },
         {
           "skill_value_type": "Integer",
@@ -63948,7 +63948,7 @@
         }
       ],
       "duration_type": "TimeSec",
-      "duration_value": 1000,
+      "duration_value": 500,
       "before_use_function_id_list": [
         0
       ],
@@ -63975,11 +63975,11 @@
       "skill_value_data": [
         {
           "skill_value_type": "Percent",
-          "skill_value": 40800
+          "skill_value": 81600
         },
         {
           "skill_value_type": "Percent",
-          "skill_value": 206
+          "skill_value": 1320
         },
         {
           "skill_value_type": "Integer",
@@ -63995,7 +63995,7 @@
         }
       ],
       "duration_type": "TimeSec",
-      "duration_value": 1000,
+      "duration_value": 500,
       "before_use_function_id_list": [
         0
       ],
@@ -64022,11 +64022,11 @@
       "skill_value_data": [
         {
           "skill_value_type": "Percent",
-          "skill_value": 42840
+          "skill_value": 85680
         },
         {
           "skill_value_type": "Percent",
-          "skill_value": 216
+          "skill_value": 1386
         },
         {
           "skill_value_type": "Integer",
@@ -64042,7 +64042,7 @@
         }
       ],
       "duration_type": "TimeSec",
-      "duration_value": 1000,
+      "duration_value": 500,
       "before_use_function_id_list": [
         0
       ],
@@ -64069,11 +64069,11 @@
       "skill_value_data": [
         {
           "skill_value_type": "Percent",
-          "skill_value": 44880
+          "skill_value": 89760
         },
         {
           "skill_value_type": "Percent",
-          "skill_value": 226
+          "skill_value": 1452
         },
         {
           "skill_value_type": "Integer",
@@ -64089,7 +64089,7 @@
         }
       ],
       "duration_type": "TimeSec",
-      "duration_value": 1000,
+      "duration_value": 500,
       "before_use_function_id_list": [
         0
       ],

@@ -14998,7 +14998,7 @@
       "battle_time": 180,
       "monster_count": 8,
       "use_intro_scene": false,
-      "wave_repeat": true,
+      "wave_repeat": false,
       "point_data": "point_grd_greathole_004",
       "point_data_fly": "point_fly_greathole_004",
       "background_name": "sbg_greathole_004",

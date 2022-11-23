@@ -594,7 +594,7 @@
       "item_type": "Piece",
       "item_sub_type": "CharacterPiece",
       "item_rare": "SSR",
-      "corporation": "TETRA",
+      "corporation": "MISSILIS",
       "class": "Defender",
       "use_type": "None",
       "use_id": 0,
@@ -1123,6 +1123,21 @@
       "class": "None",
       "use_type": "SummonRandomCharacter",
       "use_id": 200001,
+      "use_value": 50,
+      "stack_max": 9999999
+    },
+    {
+      "id": 5460100,
+      "name_localkey": "MaterialName_5460100",
+      "description_localkey": "MaterialDescription_5460100",
+      "resource_id": 60100,
+      "item_type": "Piece",
+      "item_sub_type": "SummonPiece",
+      "item_rare": "SSR",
+      "corporation": "None",
+      "class": "None",
+      "use_type": "SummonRandomCharacter",
+      "use_id": 200101,
       "use_value": 50,
       "stack_max": 9999999
     }

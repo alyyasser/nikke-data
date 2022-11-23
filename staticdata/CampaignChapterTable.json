@@ -187,6 +187,28 @@
       "hard_chapter_image": "ChapterMap_Image_007",
       "field_id": "fcbg_iceland_004",
       "hard_field_id": "fcbg_iceland_hard_004"
+    },
+    {
+      "id": 18,
+      "name_localkey": "chapter_name_17",
+      "description_localkey": "chapter_description_17",
+      "world": 1,
+      "chapter": 17,
+      "chapter_image": "ChapterMap_Image_006",
+      "hard_chapter_image": "ChapterMap_Image_006",
+      "field_id": "fcbg_iceland_005",
+      "hard_field_id": "fcbg_iceland_hard_005"
+    },
+    {
+      "id": 19,
+      "name_localkey": "chapter_name_18",
+      "description_localkey": "chapter_description_18",
+      "world": 1,
+      "chapter": 18,
+      "chapter_image": "ChapterMap_Image_012",
+      "hard_chapter_image": "ChapterMap_Image_012",
+      "field_id": "fcbg_greathole_002",
+      "hard_field_id": "fcbg_greathole_hard_002"
     }
   ]
 }

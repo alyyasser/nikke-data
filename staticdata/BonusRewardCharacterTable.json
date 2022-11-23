@@ -48,42 +48,63 @@
       "group": 2,
       "order": 1,
       "character_name_code": 1010,
-      "bonus_percent": 320000
+      "bonus_percent": 600000
     },
     {
       "id": 202,
       "group": 2,
       "order": 2,
-      "character_name_code": 5014,
-      "bonus_percent": 240000
+      "character_name_code": 5001,
+      "bonus_percent": 400000
     },
     {
       "id": 203,
       "group": 2,
       "order": 3,
-      "character_name_code": 5038,
-      "bonus_percent": 240000
+      "character_name_code": 5024,
+      "bonus_percent": 400000
     },
     {
       "id": 204,
       "group": 2,
       "order": 4,
-      "character_name_code": 5034,
-      "bonus_percent": 80000
+      "character_name_code": 5075,
+      "bonus_percent": 300000
     },
     {
       "id": 205,
       "group": 2,
       "order": 5,
-      "character_name_code": 5027,
-      "bonus_percent": 80000
+      "character_name_code": 5005,
+      "bonus_percent": 300000
     },
     {
       "id": 206,
       "group": 2,
       "order": 6,
-      "character_name_code": 5003,
-      "bonus_percent": 80000
+      "character_name_code": 5020,
+      "bonus_percent": 300000
+    },
+    {
+      "id": 207,
+      "group": 2,
+      "order": 7,
+      "character_name_code": 3001,
+      "bonus_percent": 200000
+    },
+    {
+      "id": 208,
+      "group": 2,
+      "order": 8,
+      "character_name_code": 3005,
+      "bonus_percent": 200000
+    },
+    {
+      "id": 209,
+      "group": 2,
+      "order": 9,
+      "character_name_code": 3002,
+      "bonus_percent": 200000
     }
   ]
 }

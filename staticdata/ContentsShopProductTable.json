@@ -11739,7 +11739,7 @@
       "is_limit": true,
       "buy_limit_count": 11,
       "goods_type": "Item",
-      "goods_id": 5460352,
+      "goods_id": 5460100,
       "goods_value": 50,
       "price_type": "Currency",
       "price_id": 12000,
@@ -12568,7 +12568,7 @@
       "goods_value": 10,
       "price_type": "Currency",
       "price_id": 99,
-      "price_value": 220,
+      "price_value": 200,
       "discount_prob_id": 0
     },
     {
@@ -12583,7 +12583,7 @@
       "goods_value": 20,
       "price_type": "Currency",
       "price_id": 99,
-      "price_value": 480,
+      "price_value": 400,
       "discount_prob_id": 0
     }
   ]

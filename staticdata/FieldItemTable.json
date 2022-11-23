@@ -1622,6 +1622,258 @@
       "is_final_reward": false
     },
     {
+      "id": 50017201,
+      "item_type": "BGM",
+      "type_value": 3301703,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017202,
+      "item_type": "BGM",
+      "type_value": 3301704,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017203,
+      "item_type": "BGM",
+      "type_value": 3301705,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017204,
+      "item_type": "BGM",
+      "type_value": 3301706,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017205,
+      "item_type": "BGM",
+      "type_value": 3301707,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017206,
+      "item_type": "BGM",
+      "type_value": 3301701,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017207,
+      "item_type": "BGM",
+      "type_value": 3301702,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017301,
+      "item_type": "Memory",
+      "type_value": 3301708,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017302,
+      "item_type": "Memory",
+      "type_value": 3301709,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017303,
+      "item_type": "Memory",
+      "type_value": 3301710,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017304,
+      "item_type": "Memory",
+      "type_value": 3301711,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017305,
+      "item_type": "Memory",
+      "type_value": 3301712,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017306,
+      "item_type": "Memory",
+      "type_value": 3301713,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50017307,
+      "item_type": "Memory",
+      "type_value": 3301714,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018201,
+      "item_type": "BGM",
+      "type_value": 3301803,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018202,
+      "item_type": "BGM",
+      "type_value": 3301804,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018203,
+      "item_type": "BGM",
+      "type_value": 3301805,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018204,
+      "item_type": "BGM",
+      "type_value": 3301806,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018205,
+      "item_type": "BGM",
+      "type_value": 3301807,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018206,
+      "item_type": "BGM",
+      "type_value": 3301801,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018207,
+      "item_type": "BGM",
+      "type_value": 3301802,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018301,
+      "item_type": "Memory",
+      "type_value": 3301808,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018302,
+      "item_type": "Memory",
+      "type_value": 3301809,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018303,
+      "item_type": "Memory",
+      "type_value": 3301810,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018304,
+      "item_type": "Memory",
+      "type_value": 3301811,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018305,
+      "item_type": "Memory",
+      "type_value": 3301812,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018306,
+      "item_type": "Memory",
+      "type_value": 3301813,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 50018307,
+      "item_type": "Memory",
+      "type_value": 3301814,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
       "id": 54001201,
       "item_type": "BGM",
       "type_value": 3350101,
@@ -2303,6 +2555,114 @@
       "fielditem_prefab": "fx_f_hiddenitem",
       "obtain_contents": "campaign",
       "obtain_location": 16,
+      "is_final_reward": false
+    },
+    {
+      "id": 54017201,
+      "item_type": "BGM",
+      "type_value": 3351703,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 54017202,
+      "item_type": "BGM",
+      "type_value": 3351704,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 54017203,
+      "item_type": "BGM",
+      "type_value": 3351705,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 54017204,
+      "item_type": "BGM",
+      "type_value": 3351706,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 54017205,
+      "item_type": "BGM",
+      "type_value": 3351701,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 54017206,
+      "item_type": "BGM",
+      "type_value": 3351702,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 17,
+      "is_final_reward": false
+    },
+    {
+      "id": 54018001,
+      "item_type": "HiddenItem",
+      "type_value": 3351801,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 54018201,
+      "item_type": "BGM",
+      "type_value": 3351803,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 54018202,
+      "item_type": "BGM",
+      "type_value": 3351804,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 54018203,
+      "item_type": "BGM",
+      "type_value": 3351805,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 54018204,
+      "item_type": "BGM",
+      "type_value": 3351806,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
+      "is_final_reward": false
+    },
+    {
+      "id": 54018205,
+      "item_type": "BGM",
+      "type_value": 3351802,
+      "fielditem_prefab": "fx_f_hiddenitem",
+      "obtain_contents": "campaign",
+      "obtain_location": 18,
       "is_final_reward": false
     },
     {

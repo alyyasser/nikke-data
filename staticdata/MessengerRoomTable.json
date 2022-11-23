@@ -7,7 +7,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "10_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "rapi"
       ]
@@ -18,7 +18,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "11_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "neon"
       ]
@@ -29,7 +29,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "900_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "ingrid"
       ]
@@ -40,7 +40,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_50_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "keuoaang01"
       ]
@@ -51,7 +51,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_51_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "ruruphee01"
       ]
@@ -62,7 +62,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "170_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "privaty"
       ]
@@ -73,7 +73,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 3001,
       "name_locale": "10_name",
-      "thumbnail_image": "li_c010_00_s",
+      "thumbnail_image": "mi_c010_00_s",
       "members": [
         "rapi"
       ]
@@ -84,7 +84,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 3002,
       "name_locale": "11_name",
-      "thumbnail_image": "li_c011_00_s",
+      "thumbnail_image": "mi_c011_00_s",
       "members": [
         "neon"
       ]
@@ -95,7 +95,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 3005,
       "name_locale": "12_name",
-      "thumbnail_image": "li_c012_00_s",
+      "thumbnail_image": "mi_c012_00_s",
       "members": [
         "anis"
       ]
@@ -106,7 +106,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 3003,
       "name_locale": "20_name",
-      "thumbnail_image": "li_c020_00_s",
+      "thumbnail_image": "mi_c020_00_s",
       "members": [
         "delta"
       ]
@@ -117,7 +117,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5015,
       "name_locale": "22_name",
-      "thumbnail_image": "li_c022_00_s",
+      "thumbnail_image": "mi_c022_00_s",
       "members": [
         "signal"
       ]
@@ -128,7 +128,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5016,
       "name_locale": "30_name",
-      "thumbnail_image": "li_c030_00_s",
+      "thumbnail_image": "mi_c030_00_s",
       "members": [
         "poli"
       ]
@@ -139,7 +139,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5017,
       "name_locale": "32_name",
-      "thumbnail_image": "li_c032_00_s",
+      "thumbnail_image": "mi_c032_00_s",
       "members": [
         "miranda"
       ]
@@ -150,7 +150,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 3007,
       "name_locale": "60_name",
-      "thumbnail_image": "li_c060_00_s",
+      "thumbnail_image": "mi_c060_00_s",
       "members": [
         "belorta"
       ]
@@ -161,7 +161,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 3008,
       "name_locale": "61_name",
-      "thumbnail_image": "li_c061_00_s",
+      "thumbnail_image": "mi_c061_00_s",
       "members": [
         "mica"
       ]
@@ -172,7 +172,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5018,
       "name_locale": "70_name",
-      "thumbnail_image": "li_c070_00_s",
+      "thumbnail_image": "mi_c070_00_s",
       "members": [
         "brid"
       ]
@@ -183,7 +183,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5019,
       "name_locale": "71_name",
-      "thumbnail_image": "li_c071_00_s",
+      "thumbnail_image": "mi_c071_00_s",
       "members": [
         "soline"
       ]
@@ -194,7 +194,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5020,
       "name_locale": "72_name",
-      "thumbnail_image": "li_c072_00_s",
+      "thumbnail_image": "mi_c072_00_s",
       "members": [
         "diesel"
       ]
@@ -205,7 +205,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5021,
       "name_locale": "80_name",
-      "thumbnail_image": "li_c080_00_s",
+      "thumbnail_image": "mi_c080_00_s",
       "members": [
         "centi"
       ]
@@ -216,7 +216,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5011,
       "name_locale": "82_name",
-      "thumbnail_image": "li_c082_00_s",
+      "thumbnail_image": "mi_c082_00_s",
       "members": [
         "liter"
       ]
@@ -227,7 +227,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5005,
       "name_locale": "90_name",
-      "thumbnail_image": "li_c090_00_s",
+      "thumbnail_image": "mi_c090_00_s",
       "members": [
         "emma"
       ]
@@ -238,7 +238,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5022,
       "name_locale": "91_name",
-      "thumbnail_image": "li_c091_00_s",
+      "thumbnail_image": "mi_c091_00_s",
       "members": [
         "vesti"
       ]
@@ -249,7 +249,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5023,
       "name_locale": "92_name",
-      "thumbnail_image": "li_c092_00_s",
+      "thumbnail_image": "mi_c092_00_s",
       "members": [
         "eunhwa"
       ]
@@ -260,7 +260,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5024,
       "name_locale": "101_name",
-      "thumbnail_image": "li_c101_00_s",
+      "thumbnail_image": "mi_c101_00_s",
       "members": [
         "drake"
       ]
@@ -271,7 +271,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5001,
       "name_locale": "102_name",
-      "thumbnail_image": "li_c102_00_s",
+      "thumbnail_image": "mi_c102_00_s",
       "members": [
         "maxwell"
       ]
@@ -282,7 +282,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5025,
       "name_locale": "110_name",
-      "thumbnail_image": "li_c110_00_s",
+      "thumbnail_image": "mi_c110_00_s",
       "members": [
         "crow"
       ]
@@ -293,7 +293,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 3009,
       "name_locale": "120_name",
-      "thumbnail_image": "li_c120_00_s",
+      "thumbnail_image": "mi_c120_00_s",
       "members": [
         "n102"
       ]
@@ -304,7 +304,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5026,
       "name_locale": "130_name",
-      "thumbnail_image": "li_c130_00_s",
+      "thumbnail_image": "mi_c130_00_s",
       "members": [
         "mary"
       ]
@@ -315,7 +315,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5027,
       "name_locale": "131_name",
-      "thumbnail_image": "li_c131_00_s",
+      "thumbnail_image": "mi_c131_00_s",
       "members": [
         "pepper"
       ]
@@ -326,7 +326,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5002,
       "name_locale": "140_name",
-      "thumbnail_image": "li_c140_00_s",
+      "thumbnail_image": "mi_c140_00_s",
       "members": [
         "sugar"
       ]
@@ -337,7 +337,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5028,
       "name_locale": "141_name",
-      "thumbnail_image": "li_c141_00_s",
+      "thumbnail_image": "mi_c141_00_s",
       "members": [
         "milk"
       ]
@@ -348,7 +348,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5010,
       "name_locale": "142_name",
-      "thumbnail_image": "li_c142_00_s",
+      "thumbnail_image": "mi_c142_00_s",
       "members": [
         "frima"
       ]
@@ -359,7 +359,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5014,
       "name_locale": "150_name",
-      "thumbnail_image": "li_c150_00_s",
+      "thumbnail_image": "mi_c150_00_s",
       "members": [
         "julia"
       ]
@@ -370,7 +370,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5006,
       "name_locale": "160_name",
-      "thumbnail_image": "li_c160_00_s",
+      "thumbnail_image": "mi_c160_00_s",
       "members": [
         "yuni"
       ]
@@ -381,7 +381,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 3006,
       "name_locale": "161_name",
-      "thumbnail_image": "li_c161_00_s",
+      "thumbnail_image": "mi_c161_00_s",
       "members": [
         "mihara"
       ]
@@ -392,7 +392,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5007,
       "name_locale": "170_name",
-      "thumbnail_image": "li_c170_00_s",
+      "thumbnail_image": "mi_c170_00_s",
       "members": [
         "privaty"
       ]
@@ -403,7 +403,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5029,
       "name_locale": "171_name",
-      "thumbnail_image": "li_c171_00_s",
+      "thumbnail_image": "mi_c171_00_s",
       "members": [
         "yulha"
       ]
@@ -414,7 +414,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5030,
       "name_locale": "172_name",
-      "thumbnail_image": "li_c172_00_s",
+      "thumbnail_image": "mi_c172_00_s",
       "members": [
         "admi"
       ]
@@ -425,7 +425,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5031,
       "name_locale": "180_name",
-      "thumbnail_image": "li_c180_00_s",
+      "thumbnail_image": "mi_c180_00_s",
       "members": [
         "guillotine"
       ]
@@ -436,7 +436,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5032,
       "name_locale": "181_name",
-      "thumbnail_image": "li_c181_00_s",
+      "thumbnail_image": "mi_c181_00_s",
       "members": [
         "maiden"
       ]
@@ -447,7 +447,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5033,
       "name_locale": "190_name",
-      "thumbnail_image": "li_c190_00_s",
+      "thumbnail_image": "mi_c190_00_s",
       "members": [
         "ludmilla"
       ]
@@ -458,7 +458,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5004,
       "name_locale": "191_name",
-      "thumbnail_image": "li_c191_00_s",
+      "thumbnail_image": "mi_c191_00_s",
       "members": [
         "alice"
       ]
@@ -469,7 +469,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5034,
       "name_locale": "200_name",
-      "thumbnail_image": "li_c200_00_s",
+      "thumbnail_image": "mi_c200_00_s",
       "members": [
         "rupee"
       ]
@@ -480,7 +480,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5035,
       "name_locale": "201_name",
-      "thumbnail_image": "li_c201_00_s",
+      "thumbnail_image": "mi_c201_00_s",
       "members": [
         "yan"
       ]
@@ -491,7 +491,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5036,
       "name_locale": "202_name",
-      "thumbnail_image": "li_c202_00_s",
+      "thumbnail_image": "mi_c202_00_s",
       "members": [
         "dolla"
       ]
@@ -502,7 +502,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5003,
       "name_locale": "210_name",
-      "thumbnail_image": "li_c210_00_s",
+      "thumbnail_image": "mi_c210_00_s",
       "members": [
         "exia"
       ]
@@ -513,7 +513,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5037,
       "name_locale": "212_name",
-      "thumbnail_image": "li_c212_00_s",
+      "thumbnail_image": "mi_c212_00_s",
       "members": [
         "novel"
       ]
@@ -524,7 +524,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5038,
       "name_locale": "241_name",
-      "thumbnail_image": "li_c241_00_s",
+      "thumbnail_image": "mi_c241_00_s",
       "members": [
         "epinel"
       ]
@@ -535,7 +535,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5039,
       "name_locale": "242_name",
-      "thumbnail_image": "li_c242_00_s",
+      "thumbnail_image": "mi_c242_00_s",
       "members": [
         "folkwang"
       ]
@@ -546,7 +546,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5012,
       "name_locale": "220_name",
-      "thumbnail_image": "li_c220_00_s",
+      "thumbnail_image": "mi_c220_00_s",
       "members": [
         "snowwhite"
       ]
@@ -557,7 +557,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5040,
       "name_locale": "221_name",
-      "thumbnail_image": "li_c221_00_s",
+      "thumbnail_image": "mi_c221_00_s",
       "members": [
         "rapunzel"
       ]
@@ -568,7 +568,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5041,
       "name_locale": "222_name",
-      "thumbnail_image": "li_c222_00_s",
+      "thumbnail_image": "mi_c222_00_s",
       "members": [
         "hongryeon"
       ]
@@ -579,7 +579,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5042,
       "name_locale": "230_name",
-      "thumbnail_image": "li_c230_00_s",
+      "thumbnail_image": "mi_c230_00_s",
       "members": [
         "harran"
       ]
@@ -590,7 +590,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5013,
       "name_locale": "231_name",
-      "thumbnail_image": "li_c231_00_s",
+      "thumbnail_image": "mi_c231_00_s",
       "members": [
         "isabel"
       ]
@@ -601,7 +601,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5043,
       "name_locale": "232_name",
-      "thumbnail_image": "li_c232_00_s",
+      "thumbnail_image": "mi_c232_00_s",
       "members": [
         "noah"
       ]
@@ -612,7 +612,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "13_name",
-      "thumbnail_image": "li_c260_00_s",
+      "thumbnail_image": "mi_c260_00_s",
       "members": [
         "marian"
       ]
@@ -623,7 +623,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 3010,
       "name_locale": "291_name",
-      "thumbnail_image": "li_c291_00_s",
+      "thumbnail_image": "mi_c291_00_s",
       "members": [
         "ether"
       ]
@@ -634,7 +634,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "100_name",
-      "thumbnail_image": "li_c100_00_s",
+      "thumbnail_image": "mi_c100_00_s",
       "members": [
         "laplace"
       ]
@@ -645,7 +645,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "270_name",
-      "thumbnail_image": "li_c270_00_s",
+      "thumbnail_image": "mi_c270_00_s",
       "members": [
         "blanc"
       ]
@@ -656,7 +656,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "271_name",
-      "thumbnail_image": "li_c271_00_s",
+      "thumbnail_image": "mi_c271_00_s",
       "members": [
         "noir"
       ]
@@ -667,7 +667,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "272_name",
-      "thumbnail_image": "li_c272_00_s",
+      "thumbnail_image": "mi_c272_00_s",
       "members": [
         "rouge"
       ]
@@ -678,7 +678,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "280_name",
-      "thumbnail_image": "li_c280_00_s",
+      "thumbnail_image": "mi_c280_00_s",
       "members": [
         "rosanna"
       ]
@@ -689,7 +689,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "281_name",
-      "thumbnail_image": "li_c281_00_s",
+      "thumbnail_image": "mi_c281_00_s",
       "members": [
         "moran"
       ]
@@ -700,7 +700,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "282_name",
-      "thumbnail_image": "li_c282_00_s",
+      "thumbnail_image": "mi_c282_00_s",
       "members": [
         "sakura"
       ]
@@ -711,7 +711,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "290_name",
-      "thumbnail_image": "li_c290_00_s",
+      "thumbnail_image": "mi_c290_00_s",
       "members": [
         "mana"
       ]
@@ -722,7 +722,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "240_name",
-      "thumbnail_image": "li_c240_00_s",
+      "thumbnail_image": "mi_c240_00_s",
       "members": [
         "rumani"
       ]
@@ -733,7 +733,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "111_name",
-      "thumbnail_image": "li_c111_00_s",
+      "thumbnail_image": "mi_c111_00_s",
       "members": [
         "jackal"
       ]
@@ -744,7 +744,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "112_name",
-      "thumbnail_image": "li_c112_00_s",
+      "thumbnail_image": "mi_c112_00_s",
       "members": [
         "viper"
       ]
@@ -755,7 +755,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5074,
       "name_locale": "430_name",
-      "thumbnail_image": "li_c430_00_s",
+      "thumbnail_image": "mi_c430_00_s",
       "members": [
         "noise"
       ]
@@ -766,7 +766,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5075,
       "name_locale": "431_name",
-      "thumbnail_image": "li_c431_00_s",
+      "thumbnail_image": "mi_c431_00_s",
       "members": [
         "volume"
       ]
@@ -777,7 +777,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5070,
       "name_locale": "432_name",
-      "thumbnail_image": "li_c432_00_s",
+      "thumbnail_image": "mi_c432_00_s",
       "members": [
         "aria"
       ]
@@ -788,7 +788,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 5066,
       "name_locale": "352_name",
-      "thumbnail_image": "li_c352_00_s",
+      "thumbnail_image": "mi_c352_00_s",
       "members": [
         "helm"
       ]
@@ -799,7 +799,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "counters_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "rapi",
         "neon",
@@ -812,7 +812,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "counters_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "rapi",
         "neon",
@@ -825,7 +825,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "absolut_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "emma",
         "vesti",
@@ -838,7 +838,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "scouting_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "delta",
         "signal"
@@ -850,7 +850,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "infinityrail_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "brid",
         "soline",
@@ -863,7 +863,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "external_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "guillotine",
         "maiden"
@@ -875,7 +875,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "matis_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "drake",
         "maxwell",
@@ -888,7 +888,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "cafesweety_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "sugar",
         "milk",
@@ -901,7 +901,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "triangle_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "privaty",
         "yulha",
@@ -914,7 +914,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "talentum_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "rupee",
         "yan",
@@ -927,7 +927,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "littlecannon_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "belorta",
         "mica"
@@ -939,7 +939,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "protocol_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "exia",
         "novel"
@@ -951,7 +951,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "unlimited_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "ludmilla",
         "alice"
@@ -963,7 +963,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "acpu_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "poli",
         "miranda"
@@ -975,7 +975,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "mightytools_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "centi",
         "liter"
@@ -987,7 +987,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "seraphim_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "mary",
         "pepper"
@@ -999,7 +999,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "wardress_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "yuni",
         "mihara"
@@ -1011,7 +1011,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "exotic_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "crow",
         "jackal",
@@ -1024,7 +1024,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "lifetonic_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "rumani",
         "epinel",
@@ -1037,7 +1037,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "pioneer_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "snowwhite",
         "rapunzel",
@@ -1050,7 +1050,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "inherit_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "harran",
         "isabel",
@@ -1063,7 +1063,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "mmr_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "ether",
         "mana"
@@ -1075,7 +1075,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "primadonna_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "noise",
         "volume",
@@ -1088,7 +1088,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "10_name",
-      "thumbnail_image": "li_c010_00_s",
+      "thumbnail_image": "mi_c010_00_s",
       "members": [
         "rapi"
       ]
@@ -1099,7 +1099,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "11_name",
-      "thumbnail_image": "li_c011_00_s",
+      "thumbnail_image": "mi_c011_00_s",
       "members": [
         "neon"
       ]
@@ -1110,7 +1110,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "12_name",
-      "thumbnail_image": "li_c012_00_s",
+      "thumbnail_image": "mi_c012_00_s",
       "members": [
         "anis"
       ]
@@ -1121,7 +1121,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "20_name",
-      "thumbnail_image": "li_c020_00_s",
+      "thumbnail_image": "mi_c020_00_s",
       "members": [
         "delta"
       ]
@@ -1132,7 +1132,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "22_name",
-      "thumbnail_image": "li_c022_00_s",
+      "thumbnail_image": "mi_c022_00_s",
       "members": [
         "signal"
       ]
@@ -1143,7 +1143,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "30_name",
-      "thumbnail_image": "li_c030_00_s",
+      "thumbnail_image": "mi_c030_00_s",
       "members": [
         "poli"
       ]
@@ -1154,7 +1154,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "32_name",
-      "thumbnail_image": "li_c032_00_s",
+      "thumbnail_image": "mi_c032_00_s",
       "members": [
         "miranda"
       ]
@@ -1165,7 +1165,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "60_name",
-      "thumbnail_image": "li_c060_00_s",
+      "thumbnail_image": "mi_c060_00_s",
       "members": [
         "belorta"
       ]
@@ -1176,7 +1176,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "61_name",
-      "thumbnail_image": "li_c061_00_s",
+      "thumbnail_image": "mi_c061_00_s",
       "members": [
         "mica"
       ]
@@ -1187,7 +1187,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "70_name",
-      "thumbnail_image": "li_c070_00_s",
+      "thumbnail_image": "mi_c070_00_s",
       "members": [
         "brid"
       ]
@@ -1198,7 +1198,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "71_name",
-      "thumbnail_image": "li_c071_00_s",
+      "thumbnail_image": "mi_c071_00_s",
       "members": [
         "soline"
       ]
@@ -1209,7 +1209,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "72_name",
-      "thumbnail_image": "li_c072_00_s",
+      "thumbnail_image": "mi_c072_00_s",
       "members": [
         "diesel"
       ]
@@ -1220,7 +1220,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "80_name",
-      "thumbnail_image": "li_c080_00_s",
+      "thumbnail_image": "mi_c080_00_s",
       "members": [
         "centi"
       ]
@@ -1231,7 +1231,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "82_name",
-      "thumbnail_image": "li_c082_00_s",
+      "thumbnail_image": "mi_c082_00_s",
       "members": [
         "liter"
       ]
@@ -1242,7 +1242,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "90_name",
-      "thumbnail_image": "li_c090_00_s",
+      "thumbnail_image": "mi_c090_00_s",
       "members": [
         "emma"
       ]
@@ -1253,7 +1253,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "91_name",
-      "thumbnail_image": "li_c091_00_s",
+      "thumbnail_image": "mi_c091_00_s",
       "members": [
         "vesti"
       ]
@@ -1264,7 +1264,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "92_name",
-      "thumbnail_image": "li_c092_00_s",
+      "thumbnail_image": "mi_c092_00_s",
       "members": [
         "eunhwa"
       ]
@@ -1275,7 +1275,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "101_name",
-      "thumbnail_image": "li_c101_00_s",
+      "thumbnail_image": "mi_c101_00_s",
       "members": [
         "drake"
       ]
@@ -1286,7 +1286,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "102_name",
-      "thumbnail_image": "li_c102_00_s",
+      "thumbnail_image": "mi_c102_00_s",
       "members": [
         "maxwell"
       ]
@@ -1297,7 +1297,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "110_name",
-      "thumbnail_image": "li_c110_00_s",
+      "thumbnail_image": "mi_c110_00_s",
       "members": [
         "crow"
       ]
@@ -1308,7 +1308,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "120_name",
-      "thumbnail_image": "li_c120_00_s",
+      "thumbnail_image": "mi_c120_00_s",
       "members": [
         "n102"
       ]
@@ -1319,7 +1319,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "130_name",
-      "thumbnail_image": "li_c130_00_s",
+      "thumbnail_image": "mi_c130_00_s",
       "members": [
         "mary"
       ]
@@ -1330,7 +1330,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "131_name",
-      "thumbnail_image": "li_c131_00_s",
+      "thumbnail_image": "mi_c131_00_s",
       "members": [
         "pepper"
       ]
@@ -1341,7 +1341,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "140_name",
-      "thumbnail_image": "li_c140_00_s",
+      "thumbnail_image": "mi_c140_00_s",
       "members": [
         "sugar"
       ]
@@ -1352,7 +1352,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "141_name",
-      "thumbnail_image": "li_c141_00_s",
+      "thumbnail_image": "mi_c141_00_s",
       "members": [
         "milk"
       ]
@@ -1363,7 +1363,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "142_name",
-      "thumbnail_image": "li_c142_00_s",
+      "thumbnail_image": "mi_c142_00_s",
       "members": [
         "frima"
       ]
@@ -1374,7 +1374,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "150_name",
-      "thumbnail_image": "li_c150_00_s",
+      "thumbnail_image": "mi_c150_00_s",
       "members": [
         "julia"
       ]
@@ -1385,7 +1385,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "160_name",
-      "thumbnail_image": "li_c160_00_s",
+      "thumbnail_image": "mi_c160_00_s",
       "members": [
         "yuni"
       ]
@@ -1396,7 +1396,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "161_name",
-      "thumbnail_image": "li_c161_00_s",
+      "thumbnail_image": "mi_c161_00_s",
       "members": [
         "mihara"
       ]
@@ -1407,7 +1407,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "170_name",
-      "thumbnail_image": "li_c170_00_s",
+      "thumbnail_image": "mi_c170_00_s",
       "members": [
         "privaty"
       ]
@@ -1418,7 +1418,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "171_name",
-      "thumbnail_image": "li_c171_00_s",
+      "thumbnail_image": "mi_c171_00_s",
       "members": [
         "yulha"
       ]
@@ -1429,7 +1429,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "172_name",
-      "thumbnail_image": "li_c172_00_s",
+      "thumbnail_image": "mi_c172_00_s",
       "members": [
         "admi"
       ]
@@ -1440,7 +1440,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "180_name",
-      "thumbnail_image": "li_c180_00_s",
+      "thumbnail_image": "mi_c180_00_s",
       "members": [
         "guillotine"
       ]
@@ -1451,7 +1451,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "181_name",
-      "thumbnail_image": "li_c181_00_s",
+      "thumbnail_image": "mi_c181_00_s",
       "members": [
         "maiden"
       ]
@@ -1462,7 +1462,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "190_name",
-      "thumbnail_image": "li_c190_00_s",
+      "thumbnail_image": "mi_c190_00_s",
       "members": [
         "ludmilla"
       ]
@@ -1473,9 +1473,20 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "191_name",
-      "thumbnail_image": "li_c191_00_s",
+      "thumbnail_image": "mi_c191_00_s",
       "members": [
         "alice"
+      ]
+    },
+    {
+      "id": "neve_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "193_name",
+      "thumbnail_image": "mi_c193_00_s",
+      "members": [
+        "neve"
       ]
     },
     {
@@ -1484,7 +1495,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "200_name",
-      "thumbnail_image": "li_c200_00_s",
+      "thumbnail_image": "mi_c200_00_s",
       "members": [
         "rupee"
       ]
@@ -1495,7 +1506,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "201_name",
-      "thumbnail_image": "li_c201_00_s",
+      "thumbnail_image": "mi_c201_00_s",
       "members": [
         "yan"
       ]
@@ -1506,7 +1517,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "202_name",
-      "thumbnail_image": "li_c202_00_s",
+      "thumbnail_image": "mi_c202_00_s",
       "members": [
         "dolla"
       ]
@@ -1517,7 +1528,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "210_name",
-      "thumbnail_image": "li_c210_00_s",
+      "thumbnail_image": "mi_c210_00_s",
       "members": [
         "exia"
       ]
@@ -1528,7 +1539,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "212_name",
-      "thumbnail_image": "li_c212_00_s",
+      "thumbnail_image": "mi_c212_00_s",
       "members": [
         "novel"
       ]
@@ -1539,7 +1550,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "241_name",
-      "thumbnail_image": "li_c241_00_s",
+      "thumbnail_image": "mi_c241_00_s",
       "members": [
         "epinel"
       ]
@@ -1550,7 +1561,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "242_name",
-      "thumbnail_image": "li_c242_00_s",
+      "thumbnail_image": "mi_c242_00_s",
       "members": [
         "folkwang"
       ]
@@ -1561,7 +1572,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "220_name",
-      "thumbnail_image": "li_c220_00_s",
+      "thumbnail_image": "mi_c220_00_s",
       "members": [
         "snowwhite"
       ]
@@ -1572,7 +1583,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "221_name",
-      "thumbnail_image": "li_c221_00_s",
+      "thumbnail_image": "mi_c221_00_s",
       "members": [
         "rapunzel"
       ]
@@ -1583,7 +1594,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "222_name",
-      "thumbnail_image": "li_c222_00_s",
+      "thumbnail_image": "mi_c222_00_s",
       "members": [
         "hongryeon"
       ]
@@ -1594,7 +1605,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "230_name",
-      "thumbnail_image": "li_c230_00_s",
+      "thumbnail_image": "mi_c230_00_s",
       "members": [
         "harran"
       ]
@@ -1605,7 +1616,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "231_name",
-      "thumbnail_image": "li_c231_00_s",
+      "thumbnail_image": "mi_c231_00_s",
       "members": [
         "isabel"
       ]
@@ -1616,7 +1627,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "232_name",
-      "thumbnail_image": "li_c232_00_s",
+      "thumbnail_image": "mi_c232_00_s",
       "members": [
         "noah"
       ]
@@ -1627,7 +1638,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "13_name",
-      "thumbnail_image": "li_c260_00_s",
+      "thumbnail_image": "mi_c260_00_s",
       "members": [
         "marian"
       ]
@@ -1638,7 +1649,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "291_name",
-      "thumbnail_image": "li_c291_00_s",
+      "thumbnail_image": "mi_c291_00_s",
       "members": [
         "ether"
       ]
@@ -1649,7 +1660,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "100_name",
-      "thumbnail_image": "li_c100_00_s",
+      "thumbnail_image": "mi_c100_00_s",
       "members": [
         "laplace"
       ]
@@ -1660,7 +1671,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "270_name",
-      "thumbnail_image": "li_c270_00_s",
+      "thumbnail_image": "mi_c270_00_s",
       "members": [
         "blanc"
       ]
@@ -1671,7 +1682,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "271_name",
-      "thumbnail_image": "li_c271_00_s",
+      "thumbnail_image": "mi_c271_00_s",
       "members": [
         "noir"
       ]
@@ -1682,7 +1693,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "272_name",
-      "thumbnail_image": "li_c272_00_s",
+      "thumbnail_image": "mi_c272_00_s",
       "members": [
         "rouge"
       ]
@@ -1693,7 +1704,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "280_name",
-      "thumbnail_image": "li_c280_00_s",
+      "thumbnail_image": "mi_c280_00_s",
       "members": [
         "rosanna"
       ]
@@ -1704,7 +1715,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "281_name",
-      "thumbnail_image": "li_c281_00_s",
+      "thumbnail_image": "mi_c281_00_s",
       "members": [
         "moran"
       ]
@@ -1715,7 +1726,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "282_name",
-      "thumbnail_image": "li_c282_00_s",
+      "thumbnail_image": "mi_c282_00_s",
       "members": [
         "sakura"
       ]
@@ -1726,7 +1737,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "290_name",
-      "thumbnail_image": "li_c290_00_s",
+      "thumbnail_image": "mi_c290_00_s",
       "members": [
         "mana"
       ]
@@ -1737,7 +1748,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "240_name",
-      "thumbnail_image": "li_c240_00_s",
+      "thumbnail_image": "mi_c240_00_s",
       "members": [
         "rumani"
       ]
@@ -1748,7 +1759,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "111_name",
-      "thumbnail_image": "li_c111_00_s",
+      "thumbnail_image": "mi_c111_00_s",
       "members": [
         "jackal"
       ]
@@ -1759,7 +1770,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "112_name",
-      "thumbnail_image": "li_c112_00_s",
+      "thumbnail_image": "mi_c112_00_s",
       "members": [
         "viper"
       ]
@@ -1770,7 +1781,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "430_name",
-      "thumbnail_image": "li_c430_00_s",
+      "thumbnail_image": "mi_c430_00_s",
       "members": [
         "noise"
       ]
@@ -1781,7 +1792,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "431_name",
-      "thumbnail_image": "li_c431_00_s",
+      "thumbnail_image": "mi_c431_00_s",
       "members": [
         "volume"
       ]
@@ -1792,7 +1803,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "432_name",
-      "thumbnail_image": "li_c432_00_s",
+      "thumbnail_image": "mi_c432_00_s",
       "members": [
         "aria"
       ]
@@ -1803,7 +1814,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "352_name",
-      "thumbnail_image": "li_c352_00_s",
+      "thumbnail_image": "mi_c352_00_s",
       "members": [
         "helm"
       ]
@@ -1814,7 +1825,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "counters_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "rapi",
         "neon",
@@ -1827,7 +1838,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "absolut_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "emma",
         "vesti",
@@ -1840,7 +1851,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "scouting_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "delta",
         "signal"
@@ -1852,7 +1863,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "infinityrail_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "brid",
         "soline",
@@ -1865,7 +1876,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "external_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "guillotine",
         "maiden"
@@ -1877,7 +1888,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "matis_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "drake",
         "maxwell",
@@ -1890,7 +1901,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "cafesweety_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "sugar",
         "milk",
@@ -1903,7 +1914,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "triangle_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "privaty",
         "yulha",
@@ -1916,7 +1927,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "talentum_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "rupee",
         "yan",
@@ -1929,7 +1940,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "littlecannon_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "belorta",
         "mica"
@@ -1941,7 +1952,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "protocol_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "exia",
         "novel"
@@ -1953,7 +1964,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "unlimited_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "ludmilla",
         "alice"
@@ -1965,7 +1976,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "acpu_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "poli",
         "miranda"
@@ -1977,7 +1988,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "mightytools_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "centi",
         "liter"
@@ -1989,7 +2000,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "seraphim_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "mary",
         "pepper"
@@ -2001,7 +2012,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "wardress_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "yuni",
         "mihara"
@@ -2013,7 +2024,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "exotic_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "crow",
         "jackal",
@@ -2026,7 +2037,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "lifetonic_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "rumani",
         "epinel",
@@ -2039,7 +2050,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "pioneer_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "snowwhite",
         "rapunzel",
@@ -2052,7 +2063,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "inherit_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "harran",
         "isabel",
@@ -2065,7 +2076,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "mmr_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "ether",
         "mana"
@@ -2077,7 +2088,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "903_name",
-      "thumbnail_image": "li_c903_00_s",
+      "thumbnail_image": "mi_c903_00_s",
       "members": [
         "andersen"
       ]
@@ -2088,7 +2099,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "901_name",
-      "thumbnail_image": "li_c901_00_s",
+      "thumbnail_image": "mi_c901_00_s",
       "members": [
         "syuen"
       ]
@@ -2099,7 +2110,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "900_name",
-      "thumbnail_image": "li_c900_00_s",
+      "thumbnail_image": "mi_c900_00_s",
       "members": [
         "ingrid"
       ]
@@ -2110,7 +2121,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "902_name",
-      "thumbnail_image": "li_c902_00_s",
+      "thumbnail_image": "mi_c902_00_s",
       "members": [
         "mustang"
       ]
@@ -2121,7 +2132,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "925_name",
-      "thumbnail_image": "li_c925_00_s",
+      "thumbnail_image": "mi_c925_00_s",
       "members": [
         "johan"
       ]
@@ -2132,7 +2143,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "928_name",
-      "thumbnail_image": "li_c928_00_s",
+      "thumbnail_image": "mi_c928_00_s",
       "members": [
         "einkk"
       ]
@@ -2143,7 +2154,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "929_name",
-      "thumbnail_image": "li_c929_00_s",
+      "thumbnail_image": "mi_c929_00_s",
       "members": [
         "cecil"
       ]
@@ -2154,7 +2165,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_07_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "lucy"
       ]
@@ -2165,7 +2176,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "g_npc_01_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "nightmare",
         "host",
@@ -2180,7 +2191,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_17_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "blackbox"
       ]
@@ -2191,7 +2202,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "g_npc_02_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "prisoldier05",
         "prisoldier06",
@@ -2205,7 +2216,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "g_npc_03_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "yesman",
         "keuoaang",
@@ -2220,7 +2231,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_63_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "Royaldolla"
       ]
@@ -2231,7 +2242,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_70_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "mr0"
       ]
@@ -2242,7 +2253,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_71_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "ms0"
       ]
@@ -2253,7 +2264,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_81_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "9s2ba2"
       ]
@@ -2264,7 +2275,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "g_npc_05_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "yan",
         "folkwang"
@@ -2276,7 +2287,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_108_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "chilipepper"
       ]
@@ -2287,7 +2298,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_109_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "collector"
       ]
@@ -2298,7 +2309,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_110_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "government"
       ]
@@ -2309,7 +2320,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_111_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "tetraconnect"
       ]
@@ -2320,7 +2331,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_112_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "ghost"
       ]
@@ -2331,7 +2342,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_113_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "treasurehunter"
       ]
@@ -2342,7 +2353,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_114_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "nippur"
       ]
@@ -2353,7 +2364,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_148_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "cervan"
       ]
@@ -2364,7 +2375,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_149_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "raptilion"
       ]
@@ -2375,7 +2386,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_150_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "coree"
       ]
@@ -2386,7 +2397,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_115_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "blackrose"
       ]
@@ -2397,7 +2408,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_125_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "orangeperfect"
       ]
@@ -2408,7 +2419,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_142_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "cali"
       ]
@@ -2419,7 +2430,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "g_npc_04_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "crooked",
         "duck",
@@ -2435,7 +2446,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_167_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "grandpa"
       ]
@@ -2446,7 +2457,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_169_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "writer"
       ]
@@ -2457,7 +2468,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_170_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "serial"
       ]
@@ -2468,7 +2479,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_171_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "spade"
       ]
@@ -2479,7 +2490,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_172_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "roam"
       ]
@@ -2490,7 +2501,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_173_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "regale"
       ]
@@ -2501,7 +2512,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_174_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "justin"
       ]
@@ -2512,7 +2523,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_175_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "lovelydream"
       ]
@@ -2523,7 +2534,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_176_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "jade"
       ]
@@ -2534,7 +2545,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_177_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "teddy"
       ]
@@ -2545,7 +2556,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_178_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "missilysresearch"
       ]
@@ -2556,7 +2567,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_180_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "musiclover"
       ]
@@ -2567,7 +2578,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_181_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "forestfairy"
       ]
@@ -2578,7 +2589,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_182_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "traingo"
       ]
@@ -2589,7 +2600,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_183_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "alchollover"
       ]
@@ -2600,7 +2611,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_184_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "refugee"
       ]
@@ -2611,7 +2622,7 @@
       "unlock_condition_squad": "None",
       "unlock_condition_character": 0,
       "name_locale": "npc_185_name",
-      "thumbnail_image": "icon_messenger_logo_512",
+      "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "jennifer"
       ]
